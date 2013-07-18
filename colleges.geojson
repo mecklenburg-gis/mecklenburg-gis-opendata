@@ -1,0 +1,57 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Davidson", "address": "102 N Main St", "zipcode": 28036, "phone": "892-2000" }, "geometry": { "type": "Point", "coordinates": [ -80.848705, 35.499112 ] } }
+,
+{ "type": "Feature", "properties": { "name": "UNCC", "address": "9201 University City Bv", "zipcode": 28213, "phone": "547-2000" }, "geometry": { "type": "Point", "coordinates": [ -80.729311, 35.302346 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Brookstone College of Business", "address": "8307 University Executive Park", "zipcode": 28213, "phone": "547-8600" }, "geometry": { "type": "Point", "coordinates": [ -80.745154, 35.294889 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Dudley's Beauty College", "address": "1950 John MacDonald Av", "zipcode": 28216, "phone": "392-2564" }, "geometry": { "type": "Point", "coordinates": [ -80.850644, 35.272889 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Charlotte Truck Driver School", "address": "500 N Hoskins Rd", "zipcode": 28216, "phone": "393-3000" }, "geometry": { "type": "Point", "coordinates": [ -80.876875, 35.268709 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Brand's College of Beauty", "address": "115 Lakewood Av", "zipcode": 28208, "phone": "392-5255" }, "geometry": { "type": "Point", "coordinates": [ -80.876716, 35.256138 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Johnson C. Smith University", "address": "100 Beatties Ford Rd", "zipcode": 28208, "phone": "378-1000" }, "geometry": { "type": "Point", "coordinates": [ -80.858995, 35.241533 ] } }
+,
+{ "type": "Feature", "properties": { "name": "East Coast Bible College", "address": "6900 Wilkinson Bv", "zipcode": 28214, "phone": "394-2307" }, "geometry": { "type": "Point", "coordinates": [ -80.955914, 35.236119 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Teach South Central Center", "address": "500 W Trade St", "zipcode": 28202, "phone": "342-6346" }, "geometry": { "type": "Point", "coordinates": [ -80.847295, 35.230439 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Southeastern College of Beauty", "address": "1535 Elizabeth Av", "zipcode": 28204, "phone": "376-7351" }, "geometry": { "type": "Point", "coordinates": [ -80.827708, 35.214218 ] } }
+,
+{ "type": "Feature", "properties": { "name": "King's College", "address": "322 Lamar Av", "zipcode": 28204, "phone": "372-0266" }, "geometry": { "type": "Point", "coordinates": [ -80.822989, 35.213259 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Mercy School of Nursing", "address": "1921 Vail Av", "zipcode": 28207, "phone": "379-5840" }, "geometry": { "type": "Point", "coordinates": [ -80.823099, 35.210672 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CMHA School of Nursing", "address": "1200 Blyth Av", "zipcode": 28203, "phone": "355-5043" }, "geometry": { "type": "Point", "coordinates": [ -80.837917, 35.201187 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Presbyterian Hospital School of Nurs", "address": "1901 Selwyn Av", "zipcode": 28207, "phone": "384-4140" }, "geometry": { "type": "Point", "coordinates": [ -80.830546, 35.188985 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Queens College", "address": "1900 Selwyn Av", "zipcode": 28207, "phone": "337-2212" }, "geometry": { "type": "Point", "coordinates": [ -80.830546, 35.188985 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ECPI College of Technology", "address": "1121 Woodridge Center Dr", "zipcode": 28217, "phone": "357-0077" }, "geometry": { "type": "Point", "coordinates": [ -80.899522, 35.186763 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Central Piedmont Community Clg.", "address": "2201 Water Ridge Py", "zipcode": 28217, "phone": "330-4053" }, "geometry": { "type": "Point", "coordinates": [ -80.925620, 35.182619 ] } }
+,
+{ "type": "Feature", "properties": { "name": "American Bisiness & Fashion", "address": "1515 Mockingbird Ln", "zipcode": 28209, "phone": "523-3738" }, "geometry": { "type": "Point", "coordinates": [ -80.850512, 35.167176 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Pfieffer University", "address": "4701 Park Rd", "zipcode": 28209, "phone": "521-9116" }, "geometry": { "type": "Point", "coordinates": [ -80.850737, 35.167136 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Academy of Court Reporting", "address": "4705 Park Rd", "zipcode": 28209, "phone": "523-1122" }, "geometry": { "type": "Point", "coordinates": [ -80.850716, 35.166965 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Wake Forrest University - MBA", "address": "6800 Morrison Bv", "zipcode": 28211, "phone": "365-1717" }, "geometry": { "type": "Point", "coordinates": [ -80.825933, 35.151440 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Gordon-Conwell Theology", "address": "9401 Souther Pines Bv", "zipcode": 28273, "phone": "527-9909" }, "geometry": { "type": "Point", "coordinates": [ -80.914554, 35.134228 ] } }
+,
+{ "type": "Feature", "properties": { "name": "New Covenant Bible College", "address": "1727 Matthews-Mint Hill Rd", "zipcode": 28105, "phone": "847-8204" }, "geometry": { "type": "Point", "coordinates": [ -80.694945, 35.119749 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Wingate University Graduate", "address": "224 Matthews St", "zipcode": 28105, "phone": "849-2132" }, "geometry": { "type": "Point", "coordinates": [ -80.722053, 35.119130 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Southern Evangelical Seminary", "address": "5801 Pineville-Matthews Rd", "zipcode": 28226, "phone": "543-9475" }, "geometry": { "type": "Point", "coordinates": [ -80.818306, 35.085581 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Southern Evangelical Seminary", "address": "4298 McKee Rd", "zipcode": 28270, "phone": "847-5600" }, "geometry": { "type": "Point", "coordinates": [ -80.757919, 35.067714 ] } }
+
+]
+}

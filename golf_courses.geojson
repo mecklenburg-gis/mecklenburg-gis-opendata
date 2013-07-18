@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Highland Creek Golf Club", "address": "7001 Highland Creek Py", "city": "Charlotte", "zipcode": 28269, "phone": "704-875-9000" }, "geometry": { "type": "Point", "coordinates": [ -80.762916, 35.380887 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Larkhaven Golf Club", "address": "4801 Camp Stewart Rd", "city": "Charlotte", "zipcode": 28215, "phone": "704-545-4653" }, "geometry": { "type": "Point", "coordinates": [ -80.644997, 35.236296 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Oak Hills Golf Course", "address": "4008 Oakdale Rd", "city": "Charlotte", "zipcode": 28216, "phone": "704-394-2834" }, "geometry": { "type": "Point", "coordinates": [ -80.905795, 35.328434 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Olde Sycamore Golf Plantation", "address": "7500 Olde Sycamore Dr", "city": "Charlotte", "zipcode": 28227, "phone": "704-573-1000" }, "geometry": { "type": "Point", "coordinates": [ -80.607617, 35.164335 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Paradise Valley Golf Center (Par", "address": "110 Barton Creek Dr", "city": "Charlotte", "zipcode": 28213, "phone": "704-548-1808" }, "geometry": { "type": "Point", "coordinates": [ -80.740463, 35.315937 ] } }
+,
+{ "type": "Feature", "properties": { "name": "The Golf Club at Paw Creek", "address": "One Pawtuckett Rd", "city": "Charlotte", "zipcode": 28214, "phone": "704-394-5890" }, "geometry": { "type": "Point", "coordinates": [ -80.960246, 35.257404 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Renaissance Park Golf Course", "address": "1525 West Tyvola Rd", "city": "Charlotte", "zipcode": 28217, "phone": "704-357-3373" }, "geometry": { "type": "Point", "coordinates": [ -80.910695, 35.174017 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Revolution Park Golf Course", "address": "2661 Barringer Dr", "city": "Charlotte", "zipcode": 28208, "phone": "704-342-1946" }, "geometry": { "type": "Point", "coordinates": [ -80.879944, 35.212251 ] } }
+,
+{ "type": "Feature", "properties": { "name": "The Tradition Golf Club", "address": "3800 Prosperity Church Rd", "city": "Charlotte", "zipcode": 28269, "phone": "704-549-9400" }, "geometry": { "type": "Point", "coordinates": [ -80.774353, 35.350813 ] } }
+
+]
+}

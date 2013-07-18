@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Presbyterian Hospital", "address": "200 Hawthorne Ln", "city": "Charlotte", "state": "NC", "zipcode": 28204, "phone": "384-4000" }, "geometry": { "type": "Point", "coordinates": [ -80.824491, 35.211834 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Carolinas Medical Center - Mercy", "address": "2001 Vail Av", "city": "Charlotte", "state": "NC", "zipcode": 28207, "phone": "379-5000" }, "geometry": { "type": "Point", "coordinates": [ -80.821091, 35.210109 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Carolinas Medical Center", "address": "1000 Blythe Blvd", "city": "Charlotte", "state": "NC", "zipcode": 28203, "phone": "355-2000" }, "geometry": { "type": "Point", "coordinates": [ -80.839331, 35.203785 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Presbyterian Hospital - Huntersville", "address": "10030 Gilead Rd", "city": "Huntersville", "state": "NC", "zipcode": 28078, "phone": "" }, "geometry": { "type": "Point", "coordinates": [ -80.860254, 35.406355 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Carolinas Medical Center - University", "address": "8800 N Tryon St", "city": "Charlotte", "state": "NC", "zipcode": 28262, "phone": "548-6100" }, "geometry": { "type": "Point", "coordinates": [ -80.747566, 35.305842 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Presbyterian Hospital - Matthews", "address": "1500 Matthews Township Pkwy", "city": "Matthews", "state": "NC", "zipcode": 28105, "phone": "384-6370" }, "geometry": { "type": "Point", "coordinates": [ -80.714168, 35.119896 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Carolinas Medical Center - Pineville", "address": "10628 Park Rd", "city": "Charlotte", "state": "NC", "zipcode": 28210, "phone": "543-2000" }, "geometry": { "type": "Point", "coordinates": [ -80.871866, 35.091468 ] } }
+
+]
+}

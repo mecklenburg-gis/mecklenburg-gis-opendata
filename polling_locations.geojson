@@ -1,0 +1,395 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "precinct": 107, "name": "Varick Renaissance Center", "address": "3165 Zion Renaissance Lane", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.808376, 35.303593 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 75, "name": "Holy Covenant UCC", "address": "6151 Sharon Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.842665, 35.130784 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 200, "name": "Berryhill Baptist Church", "address": "9801 Walkers Ferry Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.981498, 35.220836 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 216, "name": "Crown Point Elementary School", "address": "3335 Sam Newell Rd", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.713714, 35.160425 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 34, "name": "Oakhurst Baptist Church", "address": "5037 Monroe Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.776996, 35.191368 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 60, "name": "Briarwood Elementary School", "address": "1001 Wilann Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.765723, 35.250713 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 10, "name": "Greek Orthodox Cathedral", "address": "600 East Blvd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.853121, 35.208310 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 84, "name": "Calvary Church of the Nazarene", "address": "4000 N. Sharon Amity Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.755748, 35.213881 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 224, "name": "Garden Memorial Presbyterian Church", "address": "2324 Sam Wilson Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.978748, 35.259676 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 11, "name": "Greater Mount Moriah Primitive Baptist", "address": "747 West Trade Street", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.849360, 35.232521 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 54, "name": "Oaklawn Langauge Academy", "address": "1810 Oaklawn Avenue", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.850940, 35.250719 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 202, "name": "Cornelius Town Hall", "address": "21445 Catawba Avenue", "city": "Cornelius" }, "geometry": { "type": "Point", "coordinates": [ -80.859255, 35.481664 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 151, "name": "Croft Community School", "address": "4911 Hucks Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.805396, 35.346497 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 92, "name": "Quail Hollow Presbyterian Church", "address": "8801 Park Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.856375, 35.111646 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 77, "name": "Nations Ford Elementary School", "address": "8300 Nations Ford Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.894402, 35.141735 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 141, "name": "University City Regional Library", "address": "301 E W T Harris Blvd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.746820, 35.301800 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 132, "name": "Newell Presbyterian Church", "address": "1500 Rocky River Road West", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.738058, 35.279172 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 112, "name": "Messiah Lutheran Church", "address": "8300 Providence Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.777198, 35.095121 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 93, "name": "Church of Jesus Christ of Latter Day Saints", "address": "5815 Carmel Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.838624, 35.098384 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 90, "name": "South Charlotte Middle School", "address": "8040 Strawberry Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.797483, 35.091370 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 243, "name": "Pleasant Hill Presbyterian Church", "address": "15000 York Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -81.020606, 35.094987 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 7, "name": "Randolph Middle School", "address": "4400 Water Oak Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.792519, 35.184274 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 15, "name": "Midwood Baptist Church", "address": "2029 Mecklenburg Avenue", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.801445, 35.231560 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 66, "name": "Rama Road Elementary School", "address": "1035 Rama Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.771786, 35.168456 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 116, "name": "Cornerstone Baptist Church", "address": "8947 Albemarle Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.691723, 35.211586 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 23, "name": "Bishop Spaugh Community Academy", "address": "1901 Herbert Spaugh Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.886383, 35.231596 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 22, "name": "Marie G. Davis Military Academy", "address": "3343 Griffith St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.876274, 35.202581 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 42, "name": "Hidden Valley Elementary School", "address": "5100 Snow White Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.785520, 35.268970 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 142, "name": "Lake Norman Baptist Church", "address": "7921 Sam Furr Rd", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.894040, 35.444609 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 25, "name": "West Charlotte Recreation Center", "address": "2400 Kendall St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.856634, 35.268662 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 88, "name": "Living Saviour Lutheran Church", "address": "6817 Carmel Rd.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.846430, 35.083545 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 114, "name": "South Mecklenburg High School", "address": "8900 Park Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.858028, 35.110367 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 87, "name": "Pineville Church of the Nazarene", "address": "8614 Pineville-Matthews Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.863856, 35.087705 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 231, "name": "Pineville United Methodist Church", "address": "110 S. Polk St", "city": "Pineville" }, "geometry": { "type": "Point", "coordinates": [ -80.886743, 35.085117 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 225, "name": "Belle Johnston Community Center", "address": "1000 Johnston Dr", "city": "Pineville" }, "geometry": { "type": "Point", "coordinates": [ -80.891862, 35.079257 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 204, "name": "Back Creek Presbyterian Church", "address": "1821 Back Creek Church Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.711434, 35.309790 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 58, "name": "Starmount Pre-K Center", "address": "1600 Brookdale Ave", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.870542, 35.139680 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 73, "name": "Heathstead Community Center", "address": "6140 Heath Ridge Ct", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.832857, 35.131495 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 110, "name": "Church at Charlotte", "address": "2500 Carmel Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.809204, 35.132556 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 111, "name": "Beverly Woods Elementary", "address": "6001 Quail Hollow Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.838598, 35.131973 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 72, "name": "Carmel Presbyterian Church", "address": "2048 Carmel Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.802770, 35.139174 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 83, "name": "Albemarle Road Presbyterian Church", "address": "6740 Albemarle Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.729942, 35.202473 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 137, "name": "Providence Country Club", "address": "6001 Prov Country Club Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.782011, 35.041776 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 38, "name": "Collinswood Elementary School", "address": "4000 Applegate Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.870319, 35.184405 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 86, "name": "Carmel Middle School", "address": "5001 Camilla Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.806728, 35.128589 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 21, "name": "St. Paul United Methodist Church", "address": "2830 Dorchester PL", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.860512, 35.195810 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 63, "name": "New Hope Baptist Church", "address": "7841 Idlewild Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.731869, 35.186572 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 105, "name": "NEWELL ELEMENTARY SCHOOL", "address": "8601 Old Concord Road", "city": "Newell" }, "geometry": { "type": "Point", "coordinates": [ -80.732453, 35.284311 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 26, "name": "Cole Memorial United Methodist Church", "address": "2022 W. Sugar Creek Rd.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.795764, 35.290095 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 228, "name": "Kennedy Middle School", "address": "4000 Gallant Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.957249, 35.155117 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 238, "name": "David Cox Road Elementary School", "address": "4215 David Cox Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.802254, 35.338269 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 144, "name": "St. Matthew Catholic Church", "address": "8015 Ballantyne Commons Pkwy", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.813928, 35.057773 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 100, "name": "Candlewyck Baptist Church", "address": "7200 Providence Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.778400, 35.109776 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 32, "name": "Christ Episcopal Church", "address": "1412 Providence Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.822490, 35.188502 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 113, "name": "McKee Road Baptist Church", "address": "4300 McKee Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.758387, 35.067251 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 37, "name": "Pinewood Elementary School", "address": "815 Seneca Pl", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.863423, 35.165039 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 240, "name": "Community in Christ Lutheran Church", "address": "7621 Norman Island Dr", "city": "Cornelius" }, "geometry": { "type": "Point", "coordinates": [ -80.896949, 35.446383 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 134, "name": "Bradley Middle School", "address": "13345 Beatties Ford Rd", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.923627, 35.395845 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 236, "name": "Blair Road United Methodist Church", "address": "9135 Blair Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.638469, 35.193770 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 41, "name": "Hoskins Avenue Baptist Church", "address": "101 S. Hoskins Ave", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.884084, 35.265552 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 81, "name": "Allenbrook Elementary School", "address": "1430 Allenbrook DR", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.913565, 35.261780 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 89, "name": "Coulwood Middle School", "address": "500 Kentberry Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.943520, 35.304381 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 43, "name": "Garinger High School", "address": "1100 Eastway Drive", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.782821, 35.242311 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 82, "name": "Greenville Memorial A.M.E. Zion Church", "address": "6116 Monteith Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.773727, 35.268463 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 79, "name": "Tuckaseegee Elementary School", "address": "2028 Little Rock Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.941115, 35.250515 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 232, "name": "South Mecklenburg Presbyterian Church", "address": "8601 Bryant Farms Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.815907, 35.047273 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 121, "name": "William Davie Park", "address": "4635 Pineville-Matthews Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.804342, 35.090976 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 229, "name": "Christ the King Lutheran Church", "address": "13501 York Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.997102, 35.098583 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 24, "name": "BETTE RAE THOMAS REC CENTER", "address": "2921 Tuckaseegee Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.877158, 35.241777 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 235, "name": "Lebanon Road Elementary School", "address": "7300 Lebanon Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.690402, 35.184546 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 106, "name": "McClintock Middle School", "address": "2101 Rama Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.765916, 35.180757 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 120, "name": "Sharon Lakes Clubhouse", "address": "8301 Sharon Lakes Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.870277, 35.120568 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 33, "name": "Eastway Middle School", "address": "1501 Norland Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.776094, 35.211123 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 146, "name": "Turning Point Academy", "address": "2300 W. Sugar Creek Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.796877, 35.294020 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 91, "name": "Providence Presbyterian Church", "address": "10140 Providence Church Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.772073, 35.071960 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 206, "name": "Davidson Town Hall", "address": "216 S. Main St", "city": "Davidson" }, "geometry": { "type": "Point", "coordinates": [ -80.849695, 35.497674 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 130, "name": "Cokesbury United Methodist Church", "address": "6701 Idlewild Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.749257, 35.184518 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 115, "name": "Slavic Evangelic Church Emmanuel", "address": "7541 Lawyers Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.715379, 35.197833 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 57, "name": "Sharon Presbyterian Church", "address": "5201 Sharon Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.833502, 35.143158 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 97, "name": "Sharon South Clubhouse", "address": "8437 Knights Bridge Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.872131, 35.116103 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 29, "name": "Merry Oaks Elementary School", "address": "3508 Draper Ave", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.783832, 35.221228 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 74, "name": "Alexander Graham Middle School", "address": "1800 Runnymede Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.835626, 35.165701 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 222, "name": "Oakdale Elementary School", "address": "1825 Oakdale Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.895954, 35.300123 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 12, "name": "Wallace Pruitt Recreation Center", "address": "440 Tuckaseegee Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.864766, 35.236848 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 27, "name": "Highland Renaissance Academy", "address": "125 W Craighead Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.803446, 35.255541 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 226, "name": "McAlpine Elementary School", "address": "9100 Carswell Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.827956, 35.081759 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 80, "name": "Thrift Baptist Church", "address": "8415 Moores Chapel Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.946369, 35.274802 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 131, "name": "Peace Moravian Church", "address": "4420 Rea Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.807946, 35.104492 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 220, "name": "Mint Hill Masonic Lodge #742", "address": "10224 Lawyers Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.673017, 35.177920 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 62, "name": "Albemarle Road Elementary School", "address": "7800 Riding Trail Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.731023, 35.197415 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 234, "name": "Northeast Middle School", "address": "5960 Brickstone Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.694524, 35.194870 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 20, "name": "Avondale Presbyterian Church", "address": "2821 Park Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.852292, 35.193296 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 209, "name": "Long Creek Elementary School", "address": "9213 Beatties Ford Rd", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.888297, 35.350437 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 241, "name": "J M Alexander Middle School", "address": "12201 Hambright Rd", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.835145, 35.377408 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 145, "name": "Hickory Grove Baptist Church, North Campus", "address": "2350 Odell School Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.742052, 35.362949 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 221, "name": "Philadelphia Prebyterian Church", "address": "7714 Bain School Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.646452, 35.174767 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 47, "name": "Scottish Rites Masonic Bodies", "address": "4740 Randolph Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.796744, 35.172078 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 44, "name": "Shamrock Gardens Elementary School", "address": "3301 Country Club Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.788658, 35.233193 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 102, "name": "Bible Baptist Church", "address": "2724 Margaret Wallace Rd", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.730266, 35.160690 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 36, "name": "Providence Baptist Church", "address": "4921 Randolph Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.795624, 35.169226 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 1, "name": "Westminster Presbyterian Church", "address": "101 Colville Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.818503, 35.204423 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 210, "name": "McCrorey Y.M.C.A.", "address": "3801 Beatties Ford Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.858481, 35.286226 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 117, "name": "Garr Memorial Church", "address": "7700 Wallace Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.746092, 35.170266 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 239, "name": "Mallard Creek Recreation Center", "address": "2530 Johnston-Oehler Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.757345, 35.357719 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 103, "name": "Cross and Crown Lutheran Church", "address": "300 Pineville-Matthews Rd", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.741908, 35.116712 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 223, "name": "Cooks Memorial Presbyterian Church", "address": "3413 Mt. Holly-Huntersville Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.948305, 35.323663 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 53, "name": "Redeemer Lutheran Church", "address": "2422 Ashley Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.893885, 35.230788 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 28, "name": "New Covenant A.R.P. Church", "address": "2541 Elkwood Cr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.784633, 35.238777 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 108, "name": "Hickory Grove Baptist Church", "address": "6050 Hickory Grove Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.726039, 35.222702 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 218, "name": "Mt. Harmony Baptist Church", "address": "2817 Mt. Harmony Church Rd", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.675319, 35.115938 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 118, "name": "Providence High School", "address": "1800 Pineville-Matthews Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.762654, 35.109409 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 35, "name": "Cotswold Elementary School", "address": "300 Greenwich Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.799085, 35.178780 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 71, "name": "Sharon Elementary School", "address": "4330 Foxcroft Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.815630, 35.152448 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 230, "name": "Steele Creek Presbyterian Church", "address": "7407 Steele Creek Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.955128, 35.183297 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 143, "name": "Lake Forest Community Church", "address": "8519 Gilead Road", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.883168, 35.406237 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 150, "name": "Holly Hunter Church", "address": "4316 Mount Holly Huntersville", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.937889, 35.331360 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 133, "name": "Huntersville United Methodist Church", "address": "14005 Stumptown Rd", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.852919, 35.423606 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 8, "name": "Myers Park Elementary School", "address": "2132 Radcliffe Avenue", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.834712, 35.191321 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 61, "name": "Methodist Home Recreation Center", "address": "3200 Shamrock Drive", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.771837, 35.235135 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 16, "name": "East Stonewall A.M.E. Zion Church", "address": "1729 Griers Grove Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.861961, 35.283166 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 227, "name": "McKee Road Elementary School", "address": "4101 McKee Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.755384, 35.069047 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 122, "name": "Good Shepard United Methodist Church", "address": "13110 Moss Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.962892, 35.116192 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 59, "name": "Montclair Elementary School", "address": "5801 Farmbrook Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.867510, 35.152558 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 4, "name": "Hickory Grove Presbyterian Church", "address": "5735 E W T Harris Blvd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.736737, 35.237639 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 13, "name": "First Ward Elementary School", "address": "401 East 9th St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.834573, 35.228386 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 126, "name": "Nathaniel Alexander Elementary", "address": "7910 Neal Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.776928, 35.297459 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 124, "name": "Hickory Grove Elementary", "address": "6300 Highland Ave", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.720020, 35.227650 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 65, "name": "Sardis Presbyterian Church", "address": "6100 Sardis Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.776759, 35.158857 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 70, "name": "St. John's Episcopal Church", "address": "1623 Carmel Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.801432, 35.144622 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 140, "name": "Harrison United Methodist Church", "address": "15008 Lancaster Hwy", "city": "Pineville" }, "geometry": { "type": "Point", "coordinates": [ -80.863655, 35.042704 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 76, "name": "Forest Hill Church", "address": "7224 Park Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.853372, 35.134947 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 98, "name": "Ebenezer A.R. Presbyterian Church", "address": "6210 Old Pineville Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.877137, 35.156331 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 139, "name": "Hawk Ridge Elementary", "address": "9201 Bryant Farms Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.825176, 35.045571 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 201, "name": "J. H. Gunn Elementary School", "address": "7520 Harrisburg Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.686635, 35.217602 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 135, "name": "Winding Springs Elementary School", "address": "6601 Horace Mann Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.827582, 35.306803 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 6, "name": "Amity Presbyterian Church", "address": "2831 N. Sharon Amity Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.762567, 35.197071 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 213, "name": "Ranson Middle School", "address": "5850 Statesville Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.839969, 35.299906 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 95, "name": "Hickory Grove United Methodist Church", "address": "6301 Hickory Grove Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.722413, 35.225256 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 56, "name": "Druid Hills Elementary School", "address": "2801 Lucena St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.825013, 35.256433 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 205, "name": "Reedy Creek Elementary School", "address": "10801 Plaza Rd Ext.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.685129, 35.258830 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 99, "name": "Greenway Park School", "address": "8301 Monroe Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.748398, 35.155905 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 125, "name": "Piney Grove Elementary", "address": "8801 Eaglewind Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.731651, 35.174112 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 212, "name": "Oasis Shrine Temple", "address": "604 Doug Mayes Place", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.753006, 35.315353 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 123, "name": "Northridge Middle", "address": "7601 The Plaza", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.731149, 35.258530 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 217, "name": "Christ Covenant Church", "address": "800 Fullwood Ln", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.732744, 35.117097 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 69, "name": "Olde Providence School", "address": "3800 Rea Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.798486, 35.109778 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 51, "name": "Salvation Army Boys and Girls Club", "address": "940 Marsh Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.856994, 35.186805 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 39, "name": "Southview Recreation Center", "address": "1720 Vilma St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.916862, 35.211417 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 214, "name": "University City United Methodist Church", "address": "3835 West WT Harris Blvd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.796167, 35.332693 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 101, "name": "Carmel Place Retirement Community", "address": "5512 Carmel Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.836252, 35.101662 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 50, "name": "Wedgewood Baptist Church", "address": "4800 Wedgewood Drive", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.861576, 35.161119 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 96, "name": "Charlotte Christian Swim and Racket Club", "address": "7823 Sardis Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.765105, 35.135136 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 9, "name": "COVENANT PRESBYTERIAN CHURCH", "address": "1000 E. Morehead Street", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.843885, 35.212959 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 128, "name": "Mallard Creek Elementary", "address": "9801 Mallard Creed Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.772561, 35.335188 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 237, "name": "University Meadows Elementary School", "address": "1600 Pavilion Blvd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.713362, 35.315788 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 40, "name": "Thomasboro Elementary School", "address": "538 Bradford Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.897586, 35.254718 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 55, "name": "Lincoln Heights Elementary School", "address": "1900 Newcastle Street", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.842678, 35.260988 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 211, "name": "Hornet's Nest Elementary School", "address": "6700 Beatties Ford Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.866443, 35.324315 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 46, "name": "WTVI Televison Station", "address": "3242 Commonwealth Av", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.792584, 35.208731 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 208, "name": "Bethel Presbyterian Church", "address": "19920 Bethel Church Rd", "city": "Cornelius" }, "geometry": { "type": "Point", "coordinates": [ -80.889578, 35.481133 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 203, "name": "Robinson Presbyterian Church", "address": "9424 Harrisburg Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.669673, 35.237131 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 136, "name": "CPCC South Campus", "address": "2800 Campus Ridge Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.692347, 35.104696 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 215, "name": "Matthews Community Center", "address": "100 McDowell St", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.725394, 35.115039 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 14, "name": "Hawthorne High School", "address": "1411 Hawthorne Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.817374, 35.223781 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 138, "name": "Olympic High School", "address": "4301 Sandy Porter Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.950994, 35.158555 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 242, "name": "Jetton Park", "address": "19000 Jetton Road", "city": "Cornelius" }, "geometry": { "type": "Point", "coordinates": [ -80.898380, 35.476207 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 67, "name": "Lansdowne Elementary School", "address": "6400 Prett Ct", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.781418, 35.143964 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 49, "name": "Park Road Elementary School", "address": "3701 Haven Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.849826, 35.179860 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 78, "name": "Aldersgate United Methodist Church", "address": "5338 Nations Ford Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.890960, 35.175311 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 148, "name": "Community House Middle School", "address": "9500 Community House Rd.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.823176, 35.035130 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 149, "name": "Joseph W. Grier Academy", "address": "8330 Grier Rd.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.725014, 35.266785 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 30, "name": "Plaza Road Children’s Academy", "address": "1000 Anderson St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.794811, 35.244484 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 48, "name": "Providence United Methodist Church", "address": "2810 Providence Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.809358, 35.171979 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 17, "name": "BILLINGSVILLE ELEMENTARY", "address": "124 SKYLAND AVE", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.809653, 35.197157 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 64, "name": "Ben Salem Presbyterian Church", "address": "6801 Monroe Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.756568, 35.176139 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 94, "name": "Albemarle Recreation Center", "address": "5027 Idlewild Road North", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.724925, 35.194607 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 127, "name": "Hopewell Baptist Church", "address": "18841 Davidson-Concord Rd", "city": "Davidson" }, "geometry": { "type": "Point", "coordinates": [ -80.813433, 35.465830 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 31, "name": "Barringer Academic Center", "address": "1500 Walton Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.891393, 35.213314 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 19, "name": "Myers Park High School", "address": "2400 Colony Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.833331, 35.173590 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 52, "name": "St. Mark United Methodist Church", "address": "917 Clanton Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.887216, 35.199472 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 18, "name": "EASTOVER ELEMENTARY SCHOOL", "address": "500 Cherokee Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.820938, 35.197244 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 147, "name": "EE Waddell Language Academy", "address": "7030 Nations Ford Rd.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.900268, 35.155229 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 3, "name": "Cochrane Middle School", "address": "6200 Starhaven Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.750298, 35.246430 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 207, "name": "Huntersville Elementary School", "address": "200 Gilead Rd", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.849001, 35.410574 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 104, "name": "Devonshire Elementary School", "address": "6500 Barrington Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.745120, 35.245766 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 129, "name": "Pineville Elementary", "address": "210 Lowry St", "city": "Pineville" }, "geometry": { "type": "Point", "coordinates": [ -80.889111, 35.080791 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 45, "name": "Windsor Park Elementary", "address": "3900 Sudbury Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.759823, 35.224695 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 119, "name": "Providence Road Church of Christ", "address": "4900 Providence Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.790607, 35.147758 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 68, "name": "St. Stephen United Methodist Church", "address": "6800 Sardis Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.772440, 35.147874 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 233, "name": "Elizabeth Lane Elementary School", "address": "121 Elizabeth Ln", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.749234, 35.114432 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 109, "name": "Hawthorne Recreation Center", "address": "345 Hawthorne Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.822235, 35.215669 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 5, "name": "Third Presbyterian Church", "address": "4019 Central Ave", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.777317, 35.215325 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 2, "name": "St. John's Baptist Church", "address": "300 Hawthorne Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.822924, 35.215116 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 219, "name": "Mint Hill Town Hall", "address": "4430 Mint Hill Village Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.654833, 35.176617 ] } }
+,
+{ "type": "Feature", "properties": { "precinct": 85, "name": "Charlotte Secondary School", "address": "8310 McAlpine Park Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.752051, 35.156954 ] } }
+
+]
+}

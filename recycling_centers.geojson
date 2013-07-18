@@ -1,0 +1,277 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Unitarian Universalist Church of Charlotte", "type": "BUSINESS", "address": "234 N Sharon Amity Rd", "city": "Charlotte", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.795676, 35.176146 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Bluegrass Promotional Marketing", "type": "BUSINESS", "address": "13325 South Point Bv", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.958438, 35.114570 ] } }
+,
+{ "type": "Feature", "properties": { "name": "3120 Sharon Amity Road", "type": "BUSINESS", "address": "3120 N Sharon Amity Rd", "city": "Charlotte", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.759885, 35.202905 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Element Designs", "type": "BUSINESS", "address": "235 Crompton St", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.914320, 35.115892 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Express Stop II", "type": "BUSINESS", "address": "2947 Gibbon Rd", "city": "Charlotte", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.806810, 35.300313 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Charlotte Secondary School", "type": "BUSINESS", "address": "8310 McAlpine Park Dr", "city": "Charlotte", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.752134, 35.156957 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Northwest Family Physicians", "type": "BUSINESS", "address": "7920 Moores Chapel Rd", "city": "Charlotte", "zipcode": "28214" }, "geometry": { "type": "Point", "coordinates": [ -80.937323, 35.275642 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Parkview Community Foundation", "type": "BUSINESS", "address": "1105 Pryor St", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.875302, 35.240137 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Paul Davis Restoration", "type": "BUSINESS", "address": "2205 Distribution Center Dr", "city": "Charlotte", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.842215, 35.276629 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Pinto Metal Fabricators", "type": "BUSINESS", "address": "7505 Orr Rd", "city": "Charlotte", "zipcode": "28213" }, "geometry": { "type": "Point", "coordinates": [ -80.741470, 35.269926 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Gateway Academy Child Development Center", "type": "BUSINESS", "address": "2726 W Arrowood Rd", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.932313, 35.148571 ] } }
+,
+{ "type": "Feature", "properties": { "name": "KS Audio & Video", "type": "BUSINESS", "address": "19925 Jetton Rd", "city": "Cornelius", "zipcode": "28031" }, "geometry": { "type": "Point", "coordinates": [ -80.885765, 35.480293 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Sardis Presbyterian Church", "type": "BUSINESS", "address": "6100 Sardis Rd", "city": "Charlotte", "zipcode": "28270" }, "geometry": { "type": "Point", "coordinates": [ -80.777212, 35.157635 ] } }
+,
+{ "type": "Feature", "properties": { "name": "The UPS Store", "type": "BUSINESS", "address": "19706 One Norman Bv", "city": "Cornelius", "zipcode": "28031" }, "geometry": { "type": "Point", "coordinates": [ -80.881848, 35.480612 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Davidson Recycling Center", "type": "SELF", "address": "99 Jackson St", "city": "Davidson", "zipcode": "28036" }, "geometry": { "type": "Point", "coordinates": [ -80.848833, 35.500853 ] } }
+,
+{ "type": "Feature", "properties": { "name": "West Mecklenburg Recycling Center", "type": "FULL", "address": "8440 Byrum Dr", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.948983, 35.192522 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Rozzelles Ferry Road Recycling Center", "type": "SELF", "address": "5800 Rozzelles Ferry Rd", "city": "Charlotte", "zipcode": "28214" }, "geometry": { "type": "Point", "coordinates": [ -80.902491, 35.281682 ] } }
+,
+{ "type": "Feature", "properties": { "name": "North Mecklenburg Recycling Center and Yard Waste", "type": "FULL\/YARD", "address": "12300 N Statesville Rd", "city": "Charlotte", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.829763, 35.383971 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Compost Central", "type": "YARD", "address": "5631 West Bv", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.950587, 35.193964 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Hickory Grove Recycling Center and Yard Waste", "type": "FULL\/YARD", "address": "8007 Pence Rd", "city": "Charlotte", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.696166, 35.219873 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Foxhole Recycling Center and Yard Waste", "type": "FULL\/YARD", "address": "17131 Lancaster Hy", "city": "Charlotte", "zipcode": "28277" }, "geometry": { "type": "Point", "coordinates": [ -80.849633, 35.015637 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Park Road Park Recycling Center", "type": "SELF", "address": "5300 Closeburn Dr", "city": "Charlotte", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.850352, 35.150282 ] } }
+,
+{ "type": "Feature", "properties": { "name": "McAlpine Creek Park Recycling Center", "type": "SELF", "address": "8711 Monroe Rd", "city": "Charlotte", "zipcode": "28212" }, "geometry": { "type": "Point", "coordinates": [ -80.744929, 35.150869 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Uptown Recycling Center", "type": "SELF", "address": "700 N Tryon St", "city": "Charlotte", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.835494, 35.231659 ] } }
+,
+{ "type": "Feature", "properties": { "name": "William R. Davie Park", "type": "SELF", "address": "4635 Pineville-Matthews Rd", "city": "Charlotte", "zipcode": "28277" }, "geometry": { "type": "Point", "coordinates": [ -80.804784, 35.085804 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Blythe Landing", "type": "SELF", "address": "15901 Hwy73", "city": "Huntersville", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.907154, 35.433607 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Reedy Creek Park", "type": "SELF", "address": "2900 Rocky River Rd", "city": "Charlotte", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.716938, 35.275473 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Renaissance Park", "type": "SELF", "address": "4635 Tyvola Rd", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.908712, 35.179819 ] } }
+,
+{ "type": "Feature", "properties": { "name": "St Anns Catholic School", "type": "BUSINESS", "address": "600 Hillside Av", "city": "Charlotte", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.849575, 35.180057 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Grier Heights Shopping Center", "type": "BUSINESS", "address": "3239 Sam Drenan Rd", "city": "Charlotte", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.805361, 35.197374 ] } }
+,
+{ "type": "Feature", "properties": { "name": "The Lakeshore Market Place", "type": "BUSINESS", "address": "19501 West Catawba Av", "city": "Cornelius", "zipcode": "28031" }, "geometry": { "type": "Point", "coordinates": [ -80.890980, 35.479321 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Charlotte Honda Yamaha", "type": "BUSINESS", "address": "3012 Freedom Dr", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.888026, 35.242360 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Carmel Span", "type": "BUSINESS", "address": "6401 Carmel Rd", "city": "Charlotte", "zipcode": "28226" }, "geometry": { "type": "Point", "coordinates": [ -80.844098, 35.089753 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Lee Nichols Architecture", "type": "BUSINESS", "address": "119 E 7th St", "city": "Charlotte", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.838855, 35.229055 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Charlotte Battery Company", "type": "BUSINESS", "address": "2923 Youngblood St", "city": "Charlotte", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.870461, 35.201023 ] } }
+,
+{ "type": "Feature", "properties": { "name": "A 2 Z Cash & Carry", "type": "BUSINESS", "address": "2980 Planters Pl", "city": "Charlotte", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.866498, 35.253832 ] } }
+,
+{ "type": "Feature", "properties": { "name": "American Offset Printing Ink", "type": "BUSINESS", "address": "3847 Corporation Cr", "city": "Charlotte", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.871320, 35.271055 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Airport 85 Business Park", "type": "BUSINESS", "address": "2748 Interstate St", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.910642, 35.237284 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Archdale Animal Hospital", "type": "BUSINESS", "address": "1319 Archdale Dr", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.876983, 35.153057 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Atando Center", "type": "BUSINESS", "address": "717 Atando Av", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.818543, 35.259839 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Bobbys Painting Company, Inc.", "type": "BUSINESS", "address": "2915 Rozzelles Ferry Rd", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.871177, 35.251551 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Cambridge Construction Group, Inc.", "type": "BUSINESS", "address": "1020 Crews Rd", "city": "Matthews", "zipcode": "28105" }, "geometry": { "type": "Point", "coordinates": [ -80.721238, 35.123835 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Charlottetowne Manner", "type": "BUSINESS", "address": "3501 E Independence Bv", "city": "Charlotte", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.783477, 35.202518 ] } }
+,
+{ "type": "Feature", "properties": { "name": "City North Business Center", "type": "BUSINESS", "address": "1801 N Tryon St", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.825255, 35.241957 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Coffee Creek International Business Park", "type": "BUSINESS", "address": "1930 Center Park Dr", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.930871, 35.173880 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Community Charter School", "type": "BUSINESS", "address": "510 S Torrence St", "city": "Charlotte", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.833515, 35.210240 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Eang Hong Grocery & Fresh Seafood", "type": "BUSINESS", "address": "3101 Central Av", "city": "Charlotte", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.792554, 35.217713 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Express Stop BP", "type": "BUSINESS", "address": "10022 University City Bv", "city": "Charlotte", "zipcode": "28213" }, "geometry": { "type": "Point", "coordinates": [ -80.716115, 35.309404 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Angels & Sparrows Soup Kitchen", "type": "BUSINESS", "address": "514 N Old Statesville Rd", "city": "Huntersville", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.840588, 35.419532 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Bailey Road Business Park", "type": "BUSINESS", "address": "18636 Northline Dr", "city": "Cornelius", "zipcode": "28031" }, "geometry": { "type": "Point", "coordinates": [ -80.853774, 35.459686 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Doggett Concrete Company", "type": "BUSINESS", "address": "1425 Cressida Dr", "city": "Charlotte", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.879839, 35.113812 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Greystone Plaza", "type": "BUSINESS", "address": "3039 South Blvd", "city": "Charlotte", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.868984, 35.197470 ] } }
+,
+{ "type": "Feature", "properties": { "name": "McCombs Mini-Center", "type": "BUSINESS", "address": "2632 Statesville Ave", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.835483, 35.256563 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Matthews Presbyterian Church", "type": "BUSINESS", "address": "207 W John St", "city": "Matthews", "zipcode": "28105" }, "geometry": { "type": "Point", "coordinates": [ -80.724337, 35.116646 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Occasions Catering & Event Planning", "type": "BUSINESS", "address": "500 Bradford Dr", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.897822, 35.256225 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Parker Medical Associates", "type": "BUSINESS", "address": "2401 Distribution St", "city": "Charlotte", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.866637, 35.206095 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Perimeter Woods Business Park", "type": "BUSINESS", "address": "9009 Perimeter Woods Dr", "city": "Charlotte", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.851338, 35.343082 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Philadelphia Presbyterian Church", "type": "BUSINESS", "address": "11501 Bain School Rd", "city": "Mint Hill", "zipcode": "28227" }, "geometry": { "type": "Point", "coordinates": [ -80.647038, 35.175945 ] } }
+,
+{ "type": "Feature", "properties": { "name": "South Point Business Park", "type": "BUSINESS", "address": "13900 South Lakes Dr", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.958945, 35.103794 ] } }
+,
+{ "type": "Feature", "properties": { "name": "GexPro", "type": "BUSINESS", "address": "1400 Westinghouse Bv", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.932340, 35.121495 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Good Offices", "type": "BUSINESS", "address": "1373 E Morehead St", "city": "Charlotte", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.837557, 35.206551 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Graves Furniture", "type": "BUSINESS", "address": "1517 Industrial Dr", "city": "Charlotte", "zipcode": "28105" }, "geometry": { "type": "Point", "coordinates": [ -80.728262, 35.132342 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Griffin Masonry", "type": "BUSINESS", "address": "11301 Blair Rd", "city": "Mint Hill", "zipcode": "28227" }, "geometry": { "type": "Point", "coordinates": [ -80.629817, 35.221722 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Hiab Inc\/Cargotec & Hands-On Woodworking", "type": "BUSINESS", "address": "18627 Starcreek Dr", "city": "Cornelius", "zipcode": "28031" }, "geometry": { "type": "Point", "coordinates": [ -80.852677, 35.460187 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Holy Trinity Lutheran Church", "type": "BUSINESS", "address": "1900 The Plaza", "city": "Charlotte", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.808313, 35.228133 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Industrial Sign & Graphics, Inc.", "type": "BUSINESS", "address": "1702 N Brevard St", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.822245, 35.237067 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Nisbet Business Center", "type": "BUSINESS", "address": "12243 Nations Ford Rd", "city": "Pineville", "zipcode": "28134" }, "geometry": { "type": "Point", "coordinates": [ -80.916246, 35.097762 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Noda @ 28th Street", "type": "BUSINESS", "address": "2424 N Davidson St", "city": "Charlotte", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.812092, 35.241553 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Nol-Tech Systems", "type": "BUSINESS", "address": "901 Blair Hill Rd", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.886489, 35.197407 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Onex, Inc", "type": "BUSINESS", "address": "206 W 30th St", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.817099, 35.250228 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Park Road Baptist Church", "type": "BUSINESS", "address": "3900 Park Rd", "city": "Charlotte", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.851575, 35.177591 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Pinebrook Business Park", "type": "BUSINESS", "address": "9401 Southern Pine Bv", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.913198, 35.134472 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Plaza United Methodist Church", "type": "BUSINESS", "address": "5600 The Plaza", "city": "Charlotte", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.758633, 35.250364 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Pro Logis Business Park", "type": "BUSINESS", "address": "8916 Pioneer Av", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.929540, 35.134190 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Pro Source\/Green Fiber Parking Area", "type": "BUSINESS", "address": "2500 Distribution St", "city": "Charlotte", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.868234, 35.205350 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SouthEnd Exteriors", "type": "BUSINESS", "address": "101 Freeland Ln", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.876214, 35.189414 ] } }
+,
+{ "type": "Feature", "properties": { "name": "St Stephen United Methodist Church", "type": "BUSINESS", "address": "6800 Sardis Rd", "city": "Charlotte", "zipcode": "28270" }, "geometry": { "type": "Point", "coordinates": [ -80.773293, 35.147164 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Stephens Office Supply", "type": "BUSINESS", "address": "300 Foster Av", "city": "Charlotte", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.872629, 35.200198 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Steward Fastener & Tools", "type": "BUSINESS", "address": "101 Southside Dr", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.879000, 35.184660 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Trinity Presbyterian Church", "type": "BUSINESS", "address": "3115 Providence Rd", "city": "Charlotte", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.803289, 35.169121 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Tyler 2 Construction", "type": "BUSINESS", "address": "5400 Old Pineville Rd", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.878379, 35.167323 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Wash, Hatem, Nelson Architects", "type": "BUSINESS", "address": "330 W 10th St", "city": "Charlotte", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.839119, 35.234525 ] } }
+,
+{ "type": "Feature", "properties": { "name": "West Boulevard Business Park", "type": "BUSINESS", "address": "4734 West Bv", "city": "Charlotte", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.939839, 35.199111 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Westminister Presbyterian", "type": "BUSINESS", "address": "101 Colville Rd", "city": "Charlotte", "zipcode": "28207" }, "geometry": { "type": "Point", "coordinates": [ -80.818079, 35.203523 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Wilkinson Boulevard Business Park", "type": "BUSINESS", "address": "3557 Wilkinson Bv", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.900759, 35.224303 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Warner Rugs & Carpet Warehouse", "type": "BUSINESS", "address": "2200 Crown Centre Dr", "city": "Charlotte", "zipcode": "28227" }, "geometry": { "type": "Point", "coordinates": [ -80.733108, 35.145043 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Sub Station II", "type": "BUSINESS", "address": "11500 E Independence Blvd", "city": "Matthews", "zipcode": "28105" }, "geometry": { "type": "Point", "coordinates": [ -80.694744, 35.114852 ] } }
+,
+{ "type": "Feature", "properties": { "name": "The Friendly Mart & The Porch Swing", "type": "BUSINESS", "address": "2030 E 7th St", "city": "Charlotte", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.817357, 35.211512 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Township Park", "type": "BUSINESS", "address": "2355 Township Rd", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.945760, 35.133421 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Triton Stone Group", "type": "BUSINESS", "address": "11415 Granite St", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.927191, 35.112090 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Covenant Presbyterian Church", "type": "BUSINESS", "address": "1000 E Morehead St", "city": "Charlotte", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.843626, 35.211944 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Woodpark Business Park", "type": "BUSINESS", "address": "3400 Woodpark Blvd", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.826521, 35.268384 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Q Foundation", "type": "BUSINESS", "address": "5633 Monroe Rd", "city": "Charlotte", "zipcode": "28212" }, "geometry": { "type": "Point", "coordinates": [ -80.767949, 35.187872 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Meyers Park Baptist Church", "type": "BUSINESS", "address": "1900 Queens Rd", "city": "Charlotte", "zipcode": "28207" }, "geometry": { "type": "Point", "coordinates": [ -80.830814, 35.188261 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Strikers Soccer Center", "type": "BUSINESS", "address": "11725 Alexanderana Rd", "city": "Huntersville", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.838831, 35.370387 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Presbyterian Medical Plaza", "type": "BUSINESS", "address": "17220 Northcross Dr", "city": "Charlotte", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.871405, 35.449221 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Holy Trinity Greek Orthodox Cathedral", "type": "BUSINESS", "address": "600 East Bv", "city": "Charlotte", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.853114, 35.207458 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Quail Hollow Presbyterian Church", "type": "BUSINESS", "address": "8801 Park Rd", "city": "Charlotte", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.856458, 35.111592 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Hahn Mason Air Systems", "type": "BUSINESS", "address": "4901 Dwight Evans Rd", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.900289, 35.189188 ] } }
+,
+{ "type": "Feature", "properties": { "name": "The Carolinas Animal Hospital & Dental Clinic", "type": "BUSINESS", "address": "13331 York Center Dr", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.950924, 35.121891 ] } }
+,
+{ "type": "Feature", "properties": { "name": "VW South Charlotte", "type": "BUSINESS", "address": "9900 South Bv", "city": "Charlotte", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.881643, 35.103929 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Countryside Montessori Schools", "type": "BUSINESS", "address": "4125 Johnston-Oehler Rd", "city": "Charlotte", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.774998, 35.364636 ] } }
+,
+{ "type": "Feature", "properties": { "name": "5210 N Tryon Street Shopping Center", "type": "BUSINESS", "address": "5210 N Tryon St", "city": "Charlotte", "zipcode": "28213" }, "geometry": { "type": "Point", "coordinates": [ -80.778924, 35.258187 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WOTCO", "type": "BUSINESS", "address": "2708 N Graham St", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.823424, 35.255300 ] } }
+,
+{ "type": "Feature", "properties": { "name": "2200 Beatties Ford Road Shopping Center", "type": "BUSINESS", "address": "2200 Beatties Ford Rd", "city": "Charlotte", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.853983, 35.264423 ] } }
+,
+{ "type": "Feature", "properties": { "name": "11010 Monroe Road Office Building", "type": "BUSINESS", "address": "11010 Monroe Rd", "city": "Matthews", "zipcode": "28105" }, "geometry": { "type": "Point", "coordinates": [ -80.729931, 35.124137 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Ada Jenkins Center", "type": "BUSINESS", "address": "212 Gamble St", "city": "Davidson", "zipcode": "28036" }, "geometry": { "type": "Point", "coordinates": [ -80.853760, 35.498925 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Boone Oakley, LLC", "type": "BUSINESS", "address": "1445 S Mint St", "city": "Charlotte", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.860135, 35.219161 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Certified Auto & Transmission", "type": "BUSINESS", "address": "1520 Pacific St", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.885600, 35.238435 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Charlotte Nature Museum", "type": "BUSINESS", "address": "1658 Sterling Rd", "city": "Charlotte", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.843751, 35.188184 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Dilworth Artisan Station", "type": "BUSINESS", "address": "118 E Kingston Ave", "city": "Charlotte", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.858013, 35.212925 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Dr. Andy Hines, DDS", "type": "BUSINESS", "address": "319 S Sharon Amity Rd", "city": "Charlotte", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.802123, 35.174041 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DXP Enterprise (Precision Industries)", "type": "BUSINESS", "address": "1022 Pressley Rd", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.893650, 35.191217 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Elon Homes & Schools for Children", "type": "BUSINESS", "address": "1717 Sharon Rd W", "city": "Charlotte", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.873418, 35.118922 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Good Food on Montford", "type": "BUSINESS", "address": "1701 Montford Dr", "city": "Charlotte", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.848314, 35.170950 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Green Tomato Buffet", "type": "BUSINESS", "address": "7201 Albemarle Rd", "city": "Charlotte", "zipcode": "28227" }, "geometry": { "type": "Point", "coordinates": [ -80.721379, 35.204845 ] } }
+,
+{ "type": "Feature", "properties": { "name": "List USA", "type": "BUSINESS", "address": "1629 Cross Beam Dr", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.927311, 35.179170 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LUESA North Office", "type": "BUSINESS", "address": "12105 Verhoeff Dr", "city": "Huntersville", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.839420, 35.394782 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Lynn's Dance Club", "type": "BUSINESS", "address": "4819 S Tryon St", "city": "Charlotte", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.889868, 35.179137 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Mountain Khakis", "type": "BUSINESS", "address": "720 S Summit Ave", "city": "Charlotte", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.863838, 35.229527 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Nissei Company", "type": "BUSINESS", "address": "11107 South Commerce Blvd", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.929735, 35.118962 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Oaklawn Recreation Center", "type": "BUSINESS", "address": "1920 Stroud Park Ct", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.840460, 35.249834 ] } }
+,
+{ "type": "Feature", "properties": { "name": "One Hour Air Conditioning & Heating", "type": "BUSINESS", "address": "8521 Crown Crescent Ct", "city": "Charlotte", "zipcode": "28227" }, "geometry": { "type": "Point", "coordinates": [ -80.731044, 35.140624 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Orange & Olive Hair Gallery", "type": "BUSINESS", "address": "2824 N Davidson St", "city": "Charlotte", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.809213, 35.244831 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Perimeter Woods Business Park", "type": "BUSINESS", "address": "9009 Perimeter Woods Dr", "city": "Charlotte", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.851338, 35.343082 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Pinebrook Business Park", "type": "BUSINESS", "address": "9401 Southern Pine Blvd", "city": "Charlotte", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.913198, 35.134472 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Prologis Interstate North Business Park", "type": "BUSINESS", "address": "2201 Interstate North Dr", "city": "Charlotte", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.826652, 35.271836 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Providence Presbyterian Church", "type": "BUSINESS", "address": "10140 Providence Church Ln", "city": "Charlotte", "zipcode": "28277" }, "geometry": { "type": "Point", "coordinates": [ -80.772609, 35.071864 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Providence Road Church of Christ", "type": "BUSINESS", "address": "4900 Providence Rd", "city": "Charlotte", "zipcode": "28226" }, "geometry": { "type": "Point", "coordinates": [ -80.791526, 35.147558 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Rainbow Station", "type": "BUSINESS", "address": "9829 Providence Rd W", "city": "Charlotte", "zipcode": "28277" }, "geometry": { "type": "Point", "coordinates": [ -80.828980, 35.037921 ] } }
+,
+{ "type": "Feature", "properties": { "name": "South Mecklenburg Presbyterian Church", "type": "BUSINESS", "address": "8601 Bryant Farms Rd", "city": "Charlotte", "zipcode": "28277" }, "geometry": { "type": "Point", "coordinates": [ -80.817643, 35.046367 ] } }
+,
+{ "type": "Feature", "properties": { "name": "The Neighborhood Garage", "type": "BUSINESS", "address": "230 Iverson Way", "city": "Charlotte", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.861594, 35.204470 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Mattress Source", "type": "BUSINESS", "address": "6157 E Independence Blvd", "city": "Charlotte", "zipcode": "28212" }, "geometry": { "type": "Point", "coordinates": [ -80.750074, 35.177317 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Mecklenburg County Park & Recreation", "type": "BUSINESS", "address": "1418 Armory Dr", "city": "Charlotte", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.825451, 35.216765 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Northcross Business Campus", "type": "BUSINESS", "address": "9805 Northcross Center Ct", "city": "Huntersville", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.861906, 35.448440 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Charlotte Firefighters Association", "type": "BUSINESS", "address": "4419 Monroe Rd", "city": "Charlotte", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.785788, 35.194578 ] } }
+
+]
+}

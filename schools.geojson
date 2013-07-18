@@ -1,0 +1,94 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Albemarle Road Elementary", "type": "Elementary", "address": "7800 Riding Trail Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.729483, 35.197161 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Albemarle Road Middle School", "type": "Middle", "address": "6900 Democracy Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.729360, 35.198803 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Ardrey Kell High School", "type": "High", "address": "10220 Ardrey Kell Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.826899, 35.029164 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Alexander Middle School", "type": "Middle", "address": "12201 Hambright Road", "city_state": "Huntersville, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.835593, 35.378695 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Allenbrook Elementary School", "type": "Elementary", "address": "1430 Allenbrook Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.915112, 35.261705 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Ashley Park PreK-8 School", "type": "Elementary", "address": "2401 Belfast Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.891217, 35.232769 ] } }
+,
+{ "type": "Feature", "properties": { "name": "W. A. Hough High School", "type": "High", "address": "12420 Bailey Road", "city_state": "Cornelius, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.828122, 35.468119 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Bailey Middle School", "type": "Middle", "address": "11900 Bailey Road", "city_state": "Cornelius, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.837513, 35.467625 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Bain Elementary School", "type": "Elementary", "address": "11524 Bain School Road", "city_state": "Mint Hill, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.648551, 35.175084 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Barringer Elementary School", "type": "Elementary", "address": "1546 Walton Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.889670, 35.211871 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Whitewater Middle School", "type": "Middle", "address": "10201 Running Rapids Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.991918, 35.283695 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Whitewater Academy Elementary", "type": "Elementary", "address": "11600 White Rapids Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.990467, 35.283175 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Berryhill School", "type": "Elementary", "address": "10501 Windy Grove Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.990504, 35.213002 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Beverly Woods Elementary", "type": "Elementary", "address": "6001 Quail Hollow Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.837180, 35.131326 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Barnette Elementary School", "type": "Elementary", "address": "13659 Beatties Ford Rd", "city_state": "Huntersville, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.925013, 35.399592 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Briarwood Elementary School", "type": "Elementary", "address": "1001 Wilann Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.765549, 35.251835 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Carmel Middle School", "type": "Middle", "address": "5001 Camilla Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.804536, 35.128833 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Cato Middle College High Sch", "type": "High", "address": "8120 Grier Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.731204, 35.264761 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Billingsville Elementary Schoo", "type": "Elementary", "address": "124 Skyland Avenue", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.809538, 35.196423 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Chantilly Montessori", "type": "Elementary", "address": "701 Briar Creek Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.800515, 35.207784 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Clear Creek Elementary School", "type": "Elementary", "address": "13501 Albemarle Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.625258, 35.223696 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Cochrane Collegiate Academy", "type": "Middle", "address": "6200 Starhaven Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.750280, 35.246440 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Collinswood Language Academy", "type": "Elementary", "address": "4000 Applegate Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.871415, 35.184805 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Community House Middle School", "type": "Middle", "address": "9500 Community House Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.823885, 35.036157 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Cornelius Elementary School", "type": "Elementary", "address": "21126 Catawba Avenue", "city_state": "Cornelius, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.863912, 35.481845 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Cotswold Elementary School", "type": "Elementary", "address": "300 Greenwich Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.797461, 35.179362 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Coulwood Middle School", "type": "Middle", "address": "500 Kentberry Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.944732, 35.304205 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Crown Point Elementary School", "type": "Elementary", "address": "3335 Sam Newell Road", "city_state": "Matthews, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.715051, 35.159987 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Crestdale Middle School", "type": "Middle", "address": "940 Sam Newell Road", "city_state": "Matthews, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.718009, 35.128564 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Davidson Elementary School", "type": "Elementary", "address": "635 South Street", "city_state": "Davidson, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.848305, 35.489737 ] } }
+,
+{ "type": "Feature", "properties": { "name": "David W. Butler High School", "type": "High", "address": "1810 Matthews-Mint Hill Road", "city_state": "Matthews, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.691217, 35.120552 ] } }
+,
+{ "type": "Feature", "properties": { "name": "David Cox Road Elementary", "type": "Elementary", "address": "4215 David Cox Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.800904, 35.336565 ] } }
+,
+{ "type": "Feature", "properties": { "name": "M. G. Davis Military Academy", "type": "Special", "address": "3351 Griffith Street", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.876673, 35.202372 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Devonshire Elementary School", "type": "Elementary", "address": "6500 Barrington Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.745853, 35.245259 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Dilworth Elementary School", "type": "Elementary", "address": "405 East Park Avenue", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.851491, 35.211354 ] } }
+,
+{ "type": "Feature", "properties": { "name": "First Ward Creative Arts", "type": "Elementary", "address": "715 North Caldwell Street", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.832275, 35.229108 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Berewick Elementary School", "type": "Elementary", "address": "5910 Dixie River Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.979420, 35.173884 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Druid Hills Academy", "type": "Elementary", "address": "2801 Lucena Street", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.824366, 35.257127 ] } }
+,
+{ "type": "Feature", "properties": { "name": "East Mecklenburg High School", "type": "High", "address": "6800 Monroe Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.757363, 35.175881 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Eastover Elementary School", "type": "Elementary", "address": "500 Cherokee Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.821349, 35.196573 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Eastway Middle School", "type": "Middle", "address": "1501 Norland Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.776559, 35.210271 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Elizabeth Lane Elementary", "type": "Elementary", "address": "121 Elizabeth Lane", "city_state": "Matthews, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.747377, 35.112388 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Elon Park Elementary School", "type": "Elementary", "address": "11425 Ardrey Kell Road", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.843458, 35.022828 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Elizabeth Traditional Elem", "type": "Elementary", "address": "1601 Park Drive", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.825823, 35.215611 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Endhaven Elementary School", "type": "Elementary", "address": "6815 Endhaven Lane", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.835480, 35.066821 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Hawthorne High School", "type": "Special", "address": "1411 Hawthorne Lane", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.814459, 35.228896 ] } }

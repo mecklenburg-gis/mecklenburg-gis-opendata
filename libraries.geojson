@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Main Library", "type": "Center City", "address": "310 N. Tryon St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.840725, 35.228865 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Belmont Center Branch", "type": "", "address": "700 Parkwood Av", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.819683, 35.234824 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Beatties Ford Road Branch", "type": "Regional", "address": "2412 Beatties Ford Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.853981, 35.267446 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Carmel Branch", "type": "", "address": "6624 Walsh Bv", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.852692, 35.089846 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Cornelius Branch", "type": "Community", "address": "21216 Catawba Av", "city": "Cornelius" }, "geometry": { "type": "Point", "coordinates": [ -80.862416, 35.482669 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Independence Regional Branch", "type": "Regional", "address": "6015 Conference Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.756366, 35.176856 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Matthews Branch", "type": "Community", "address": "230 Matthews Station St.", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.718386, 35.115900 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Mint Hill Branch", "type": "Community", "address": "6840 Matthews-Mint Hill Rd.", "city": "Mint Hill" }, "geometry": { "type": "Point", "coordinates": [ -80.658872, 35.171682 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Plaza Midwood Branch", "type": "Community", "address": "1623 Central Av", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.811896, 35.220330 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Scaleybark Branch", "type": "Community", "address": "101 Scaleybark Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.875667, 35.188981 ] } }
+,
+{ "type": "Feature", "properties": { "name": "West Boulevard Branch", "type": "Community", "address": "2157 West Boulevard", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.895641, 35.211748 ] } }
+,
+{ "type": "Feature", "properties": { "name": "University City Regional Branch", "type": "Regional", "address": "301 E. WT Harris Bv", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.746653, 35.303308 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Hickory Grove Branch", "type": "Community", "address": "5935 Hickory Grove Rd.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.728098, 35.222989 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Steele Creek Branch", "type": "Community", "address": "13620 Steele Creek Rd.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.988945, 35.106829 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Morrison Regional Branch", "type": "Regional", "address": "7015 Morrison Bv", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.825898, 35.152477 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Davidson Branch", "type": "Community", "address": "212 S. Main St", "city": "Davidson" }, "geometry": { "type": "Point", "coordinates": [ -80.849878, 35.498332 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Myers Park Branch", "type": "Community", "address": "1361 Queens Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.827596, 35.196094 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CheckIt Outlet", "type": "", "address": "435 South Tryon Street, Suite 110", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.846815, 35.224859 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Freedom Regional Library", "type": "", "address": "1230 Alleghany St.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.889267, 35.237682 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ImaginOn", "type": "Center City", "address": "300 East Seventh Street", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.837868, 35.227739 ] } }
+,
+{ "type": "Feature", "properties": { "name": "North County Regional Branch", "type": "Regional", "address": "16500 Holly Crest Lane", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.864779, 35.440840 ] } }
+,
+{ "type": "Feature", "properties": { "name": "South County Regional Branch", "type": "Regional", "address": "5801 Rea Road", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.811958, 35.086161 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Sugar Creek Branch", "type": "Community", "address": "4045 N. Tryon Street", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.797407, 35.256783 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Mountain Island Branch", "type": "Community", "address": "4420 Hoyt Galvin Way", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.960739, 35.335014 ] } }
+
+]
+}

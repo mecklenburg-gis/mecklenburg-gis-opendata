@@ -1,0 +1,385 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "ABBOTT NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1300  SPRUCE ST", "city": "CHARLOTTE", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.870885, 35.215152 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ALBEMARLE ROAD CENTER", "type": "RECREATION CENTER", "address": "5027 N IDLEWILD RD", "city": "CHARLOTTE", "zipcode": "28227" }, "geometry": { "type": "Point", "coordinates": [ -80.724049, 35.195810 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ALBEMARLE ROAD COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "9120 E W T HARRIS BV", "city": "CHARLOTTE", "zipcode": "28227" }, "geometry": { "type": "Point", "coordinates": [ -80.726562, 35.196398 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ADMINISTRATIVE OFFICE BUILDING", "type": "NEIGHBORHOOD PARK", "address": "5841  BROOKSHIRE BV", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.902074, 35.282744 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ALEXANDER NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "739 E 12TH ST", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.827706, 35.227213 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ALLEN HILLS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "4701 CHEVIOT RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.818796, 35.285113 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ALEXANDRIANA HISTORIC SITE", "type": "NEIGHBORHOOD PARK", "address": "9921 OLD STATESVILLE RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.822542, 35.357714 ] } }
+,
+{ "type": "Feature", "properties": { "name": "AMAY JAMES CENTER", "type": "RECREATION CENTER", "address": "2425 LESTER ST", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.901322, 35.203733 ] } }
+,
+{ "type": "Feature", "properties": { "name": "AMAY JAMES COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "2415 LESTER ST", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.901319, 35.203701 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ANITA STROUD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2215 DOUBLE OAKS RD", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.841160, 35.252443 ] } }
+,
+{ "type": "Feature", "properties": { "name": "AQUATIC CENTER", "type": "RECREATION CENTER", "address": "800 E 2ND ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.839708, 35.217964 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ARCHDALE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "5400  CHERRYCREST LN", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.886403, 35.152124 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ARBOR GLEN OUTREACH CENTER", "type": "RECREATION CENTER", "address": "1520 CLANTON RD", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.893465, 35.207727 ] } }
+,
+{ "type": "Feature", "properties": { "name": "AUTEN NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "NECK RD", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.933351, 35.377568 ] } }
+,
+{ "type": "Feature", "properties": { "name": "BAXTER STREET NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1000 BAXTER ST", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.841156, 35.213385 ] } }
+,
+{ "type": "Feature", "properties": { "name": "BIDDLEVILLE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "500  ANDRILL TR", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.850272, 35.243419 ] } }
+,
+{ "type": "Feature", "properties": { "name": "BLYTHE LANDING COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "15901  NC 73 HY", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.903918, 35.436278 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HICKORY GROVE RECREATION CENTER", "type": "RECREATION CENTER", "address": "6709 PENCE RD", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.717573, 35.225723 ] } }
+,
+{ "type": "Feature", "properties": { "name": "IVORY BAKER RECREATION CENTER", "type": "RECREATION CENTER", "address": "1295  EUREKA ST", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.840516, 35.250108 ] } }
+,
+{ "type": "Feature", "properties": { "name": "BRACKETT BLUFF NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "20520 SHEARER RD", "city": "DAVIDSON", "zipcode": "28036" }, "geometry": { "type": "Point", "coordinates": [ -80.790532, 35.487226 ] } }
+,
+{ "type": "Feature", "properties": { "name": "BRIARWOOD COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "5349 WATERWOOD ST", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.766079, 35.254924 ] } }
+,
+{ "type": "Feature", "properties": { "name": "BRYANT NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1701 W MOREHEAD ST", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.869566, 35.227986 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RICHARD BARRY MEMORIAL PARK", "type": "COMMUNITY PARK", "address": "BEATTIES FORD RD", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.924228, 35.401209 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CARMEL ROAD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2365 CARMEL RD", "city": "CHARLOTTE", "zipcode": "28226" }, "geometry": { "type": "Point", "coordinates": [ -80.806680, 35.134277 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HISTORIC TUCKESEGEE FORD REGIONAL PARK", "type": "REGIONAL PARK", "address": "820  HAWFIELD RD", "city": "CHARLOTTE", "zipcode": "28214" }, "geometry": { "type": "Point", "coordinates": [ -81.002263, 35.272054 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CEDARWOOD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "6624 REDDMAN RD", "city": "CHARLOTTE", "zipcode": "28212" }, "geometry": { "type": "Point", "coordinates": [ -80.750045, 35.191153 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CHARLES AVENUE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "800 CHARLES AVE", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.807755, 35.242814 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CHANTILLY NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "222  WYANOKE AVE", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.808960, 35.207597 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CLANTON COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "1520 CLANTON RD", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.893433, 35.208211 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CLEMSON AVENUE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3028 CLEMSON AVE", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.803175, 35.241530 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CAMPBELL CREEK COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "6601 BARCLIFFE DR", "city": "CHARLOTTE", "zipcode": "28212" }, "geometry": { "type": "Point", "coordinates": [ -80.735143, 35.215578 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CAMP GREENE COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "1221 ALLEGHANY ST", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.890510, 35.237370 ] } }
+,
+{ "type": "Feature", "properties": { "name": "COLONEL FRANCIS J. BEATTY REGIONAL PARK", "type": "REGIONAL PARK", "address": "4330 WEDDINGTON RD", "city": "CHARLOTTE", "zipcode": "28105" }, "geometry": { "type": "Point", "coordinates": [ -80.728592, 35.067246 ] } }
+,
+{ "type": "Feature", "properties": { "name": "COLLINS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "4500 APPLEGATE RD", "city": "CHARLOTTE", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.871287, 35.181577 ] } }
+,
+{ "type": "Feature", "properties": { "name": "COLONIAL NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "219 PROVIDENCE RD", "city": "CHARLOTTE", "zipcode": "28207" }, "geometry": { "type": "Point", "coordinates": [ -80.824022, 35.206465 ] } }
+,
+{ "type": "Feature", "properties": { "name": "COPPERHEAD ISLAND", "type": "NATURE PRESERVE", "address": "15200 SOLDIER RD", "city": "CHARLOTTE", "zipcode": "28278" }, "geometry": { "type": "Point", "coordinates": [ -81.024992, 35.109692 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CORDELIA COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "2100 N DAVIDSON ST", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.815296, 35.237397 ] } }
+,
+{ "type": "Feature", "properties": { "name": "COULWOOD COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "100 COULWOOD PARK DR", "city": "CHARLOTTE", "zipcode": "28214" }, "geometry": { "type": "Point", "coordinates": [ -80.939837, 35.305774 ] } }
+,
+{ "type": "Feature", "properties": { "name": "COWANS FORD WILDLIFE REFUGE", "type": "NATURE PRESERVE", "address": "NECK RD", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.973399, 35.372190 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CAROLINA RAPTOR CENTER", "type": "SPECIAL FACILITY", "address": "6000 SAMPLE RD", "city": "HUNTERSVILLE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.917062, 35.351313 ] } }
+,
+{ "type": "Feature", "properties": { "name": "C.T. MYERS GOLF COURSE", "type": "GOLF COURSE", "address": "7817 HARRISBURG RD", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.685906, 35.221682 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DOUBLE OAKS CENTER", "type": "RECREATION CENTER", "address": "1326 WOODWARD AV", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.837754, 35.249802 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DOUBLE OAKS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2605  DOUBLE OAKS RD", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.838270, 35.256747 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DOUBLE OAKS POOL", "type": "POOL", "address": "1200 NEWLAND RD", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.836978, 35.257517 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DAVID B. WAYMER FLYING REGIONAL PARK", "type": "REGIONAL PARK", "address": "15401 HOLBROOKS RD", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.816477, 35.401487 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DAVID B. WAYMER COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "302 HOLBROOKS RD", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.835565, 35.399172 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DEVONSHIRE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "6330 BARRINGTON DR", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.745612, 35.247290 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DOWD HOUSE HISTORIC SITE", "type": "NEIGHBORHOOD PARK", "address": "2216 MONUMENT ST", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.882099, 35.225388 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DERITA COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "3509 FREW RD", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.806071, 35.258811 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DRUID HILLS CENTER", "type": "RECREATION CENTER", "address": "2801 LUCENA ST", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.824719, 35.256828 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DRUID HILLS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2801 POINSETT ST", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.831797, 35.258481 ] } }
+,
+{ "type": "Feature", "properties": { "name": "EASTOVER NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2730 RANDOLPH RD", "city": "CHARLOTTE", "zipcode": "28207" }, "geometry": { "type": "Point", "coordinates": [ -80.813102, 35.199783 ] } }
+,
+{ "type": "Feature", "properties": { "name": "EB MOORE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "901 MARSH RD", "city": "CHARLOTTE", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.858501, 35.187733 ] } }
+,
+{ "type": "Feature", "properties": { "name": "EDGEHILL NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "812 S EDGEHILL RD", "city": "CHARLOTTE", "zipcode": "28207" }, "geometry": { "type": "Point", "coordinates": [ -80.832426, 35.202730 ] } }
+,
+{ "type": "Feature", "properties": { "name": "521 CENTER", "type": "RECREATION CENTER", "address": "11401 ARDREY KELL RD", "city": "CHARLOTTE", "zipcode": "28277" }, "geometry": { "type": "Point", "coordinates": [ -80.845099, 35.022710 ] } }
+,
+{ "type": "Feature", "properties": { "name": "BETTE RAE THOMAS CENTER", "type": "RECREATION CENTER", "address": "2921 TUCKASEEGEE RD", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.878456, 35.241455 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ENDERLY NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1501 ENDERLY RD", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.884097, 35.240471 ] } }
+,
+{ "type": "Feature", "properties": { "name": "EAST DISTRICT PARK OFFICE", "type": "SPECIAL FACILITY", "address": "5715 MONROE RD", "city": "CHARLOTTE", "zipcode": "28212" }, "geometry": { "type": "Point", "coordinates": [ -80.766515, 35.187022 ] } }
+,
+{ "type": "Feature", "properties": { "name": "EVERGREEN NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "NORLAND RD", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.766891, 35.206078 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIREMANS HALL", "type": "SPECIAL FACILITY", "address": "2601 E 7TH ST", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.809653, 35.206027 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIVE POINTS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "200 FRENCH ST", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.859839, 35.248357 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FLAT BRANCH COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "11830 TOM SHORT RD", "city": "CHARLOTTE", "zipcode": "28277" }, "geometry": { "type": "Point", "coordinates": [ -80.793876, 35.046155 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FOURTH WARD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "301 N POPLAR ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.842317, 35.231677 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FRAZIER NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1200 W 4TH ST EXT", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.856982, 35.233232 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FRED ALEXANDER NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "739 E 12TH ST", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.859274, 35.281005 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FREEDOM REGIONAL PARK", "type": "REGIONAL PARK", "address": "2435 CUMBERLAND AV", "city": "CHARLOTTE", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.844759, 35.191714 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRESTONE COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "3501 FIRESTONE DR", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.872462, 35.287825 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRST WARD CENTER", "type": "RECREATION CENTER", "address": "610 E 7TH ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.834947, 35.224949 ] } }
+,
+{ "type": "Feature", "properties": { "name": "GAR CREEK NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "MCCOY RD", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.885195, 35.362011 ] } }
+,
+{ "type": "Feature", "properties": { "name": "GRAYSON NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "750 BEAL ST", "city": "CHARLOTTE", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.795452, 35.190658 ] } }
+,
+{ "type": "Feature", "properties": { "name": "GRADY COLE CENTER", "type": "SPECIAL FACILITY", "address": "310 N KINGS DR", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.829631, 35.219601 ] } }
+,
+{ "type": "Feature", "properties": { "name": "GRIER HEIGHTS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3110  LEROY ST", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.810603, 35.195161 ] } }
+,
+{ "type": "Feature", "properties": { "name": "GREENVILLE CENTER", "type": "RECREATION CENTER", "address": "1330 SPRING ST", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.842130, 35.245340 ] } }
+,
+{ "type": "Feature", "properties": { "name": "GREENVILLE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1401 POLK ST", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.842203, 35.243418 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HARRISBURG ROAD REGIONAL PARK", "type": "REGIONAL PARK", "address": "8045 HARRISBURG RD", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.684513, 35.224090 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HARRISBURG ROAD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "7701 HARRISBURG RD", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.685967, 35.221546 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HAWTHORNE CENTER", "type": "RECREATION CENTER", "address": "345 HAWTHORNE LN", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.822837, 35.215281 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HORNETS NEST REGIONAL PARK", "type": "REGIONAL PARK", "address": "6331 BEATTIES FORD RD", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.865127, 35.320064 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HORTICULTURAL MAINTENANCE FACILITY", "type": "SPECIAL FACILITY", "address": "11826 MALLARD CREEK RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.756193, 35.356533 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HOSKINS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3801 GOSSETT AV", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.884569, 35.259697 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HOWIE ACRES NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1001 TREMBETH DR", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.784399, 35.249568 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HUNTINGTOWNE FARMS COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "2400 RAMBLEWOOD LN", "city": "CHARLOTTE", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.862491, 35.128128 ] } }
+,
+{ "type": "Feature", "properties": { "name": "IDLEWILD ROAD REGIONAL PARK", "type": "REGIONAL PARK", "address": "10512 IDLEWILD RD", "city": "MINT HILL", "zipcode": "28105" }, "geometry": { "type": "Point", "coordinates": [ -80.700109, 35.164450 ] } }
+,
+{ "type": "Feature", "properties": { "name": "INDEPENDENCE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "300 HAWTHORNE LN", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.822566, 35.215500 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RAYS SPLASH PLANET", "type": "RECREATION CENTER", "address": "215 N SYCAMORE ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.852150, 35.237048 ] } }
+,
+{ "type": "Feature", "properties": { "name": "JEFF ADAMS TENNIS CENTER", "type": "SPECIAL FACILITY", "address": "1200 W TYVOLA RD", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.906430, 35.171812 ] } }
+,
+{ "type": "Feature", "properties": { "name": "JAMES BOYCE COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "300 BOYCE RD", "city": "CHARLOTTE", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.769049, 35.147425 ] } }
+,
+{ "type": "Feature", "properties": { "name": "JETTON REGIONAL PARK", "type": "REGIONAL PARK", "address": "19000 JETTON RD", "city": "CORNELIUS", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.899329, 35.476203 ] } }
+,
+{ "type": "Feature", "properties": { "name": "JULIAN UNDERWOOD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "5400 GALWAY DR", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.754611, 35.243364 ] } }
+,
+{ "type": "Feature", "properties": { "name": "KILBORNE COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "2600 KILBORNE DR", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.770977, 35.220469 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LATTA CENTER", "type": "RECREATION CENTER", "address": "510 EAST PARK AV", "city": "CHARLOTTE", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.851556, 35.210190 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LATTA PLANTATION NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "5226 SAMPLE RD", "city": "HUNTERSVILLE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.908038, 35.356086 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LATTA COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "601 EAST PARK AV", "city": "CHARLOTTE", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.850940, 35.209529 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LATTA PLACE HISTORIC SITE", "type": "SPECIAL FACILITY", "address": "5225 SAMPLE RD", "city": "HUNTERSVILLE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.929045, 35.353073 ] } }
+,
+{ "type": "Feature", "properties": { "name": "L.C. COLEMAN NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1501 MCDONALD ST", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.861544, 35.258416 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MERRY OAKS ELEM. NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3508 DRAPER AVE", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.785627, 35.219638 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LAKEWOOD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3131 KALYNNE ST", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.877554, 35.252418 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LATTA PLANTATION EQUESTRIAN CENTER", "type": "SPECIAL FACILITY", "address": "6201 SAMPLE RD", "city": "HUNTERSVILLE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.914398, 35.352639 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LITTLE PEOPLES NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1120 HARRILL ST", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.820407, 35.228414 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MECK. CO. REGIONAL SPORTS COMPLEX", "type": "REGIONAL PARK", "address": "1601 TANK TOWN RD", "city": "MATTHEWS", "zipcode": "28105" }, "geometry": { "type": "Point", "coordinates": [ -80.701869, 35.107571 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MCALPINE CREEK REGIONAL PARK", "type": "REGIONAL PARK", "address": "8711  MONROE RD", "city": "CHARLOTTE", "zipcode": "28212" }, "geometry": { "type": "Point", "coordinates": [ -80.745678, 35.150901 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MCDOWELL NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "15222 YORK RD", "city": "CHARLOTTE", "zipcode": "28278" }, "geometry": { "type": "Point", "coordinates": [ -81.023880, 35.094272 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MCINTYRE HISTORIC SITE", "type": "SPECIAL FACILITY", "address": "5801 MCINTYRE AV", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.863634, 35.312247 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MCKEE ROAD COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "4201 MCKEE RD", "city": "CHARLOTTE", "zipcode": "28270" }, "geometry": { "type": "Point", "coordinates": [ -80.756918, 35.068331 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MARION DIEHL CENTER", "type": "RECREATION CENTER", "address": "2219 TYVOLA RD", "city": "CHARLOTTE", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.860246, 35.159970 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MARION DIEHL COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "2219 TYVOLA RD", "city": "CHARLOTTE", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.857497, 35.158864 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MEMORIAL STADIUM COMPLEX", "type": "NEIGHBORHOOD PARK", "address": "310 N KINGS DR", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.828209, 35.219060 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MIDWOOD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2100 WILHELMINA AV", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.802650, 35.230181 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MALLARD CREEK REGIONAL PARK", "type": "REGIONAL PARK", "address": "3001 JOHNSTON OEHLER RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.760567, 35.362285 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MALLARD CREEK CENTER", "type": "RECREATION CENTER", "address": "2530 JOHNSTON OEHLER RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.757302, 35.357260 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MARTIN LUTHER KING COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "2600 RAVENCROFT DR", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.871516, 35.245715 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CHERRY NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1509 BAXTER ST", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.832784, 35.210328 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MASON WALLACE COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "7301 MONROE RD", "city": "CHARLOTTE", "zipcode": "28212" }, "geometry": { "type": "Point", "coordinates": [ -80.755523, 35.167644 ] } }
+,
+{ "type": "Feature", "properties": { "name": "METHODIST HOME CENTER", "type": "RECREATION CENTER", "address": "3200 SHAMROCK DR", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.773131, 35.235501 ] } }
+,
+{ "type": "Feature", "properties": { "name": "METHODIST HOME NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3200 SHAMROCK DR", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.774335, 35.233988 ] } }
+,
+{ "type": "Feature", "properties": { "name": "NAOMI DRENAN CENTER", "type": "RECREATION CENTER", "address": "750 BEAL ST", "city": "CHARLOTTE", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.796352, 35.190429 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FREEDOM PARK NATURE MUSEUM", "type": "SPECIAL FACILITY", "address": "1658 STERLING RD", "city": "CHARLOTTE", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.842654, 35.188092 ] } }
+,
+{ "type": "Feature", "properties": { "name": "NORTH CHARLOTTE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "901 HERRIN AV", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.797883, 35.246030 ] } }
+,
+{ "type": "Feature", "properties": { "name": "NEVIN REGIONAL PARK", "type": "REGIONAL PARK", "address": "6000 STATESVILLE RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.839960, 35.301947 ] } }
+,
+{ "type": "Feature", "properties": { "name": "NEWELL COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "9130 NEWELL BAPTIST CHURCH RD", "city": "CHARLOTTE", "zipcode": "28213" }, "geometry": { "type": "Point", "coordinates": [ -80.736250, 35.284174 ] } }
+,
+{ "type": "Feature", "properties": { "name": "NINTH STREET NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "417 W 9TH ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.841235, 35.234079 ] } }
+,
+{ "type": "Feature", "properties": { "name": "NORTH MECKLENBURG COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "16131 OLD STATESVILLE RD", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.843539, 35.433253 ] } }
+,
+{ "type": "Feature", "properties": { "name": "OAKHURST NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3500 CRAIG AV", "city": "CHARLOTTE", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.789992, 35.191428 ] } }
+,
+{ "type": "Feature", "properties": { "name": "OLDE PROVIDENCE COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "3800 REA RD", "city": "CHARLOTTE", "zipcode": "28226" }, "geometry": { "type": "Point", "coordinates": [ -80.797599, 35.110099 ] } }
+,
+{ "type": "Feature", "properties": { "name": "POLICE ATHLETIC LEAGUE CENTER", "type": "RECREATION CENTER", "address": "800 OAKLAWN AV", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.837038, 35.245755 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HICKORY GROVE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "6709 PENCE RD", "city": "CHARLOTTE", "zipcode": "28227" }, "geometry": { "type": "Point", "coordinates": [ -80.717480, 35.225725 ] } }
+,
+{ "type": "Feature", "properties": { "name": "PEARLE STREET NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1108 BAXTER ST", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.837214, 35.212486 ] } }
+,
+{ "type": "Feature", "properties": { "name": "PARK ROAD COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "6220 PARK RD", "city": "CHARLOTTE", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.849992, 35.146323 ] } }
+,
+{ "type": "Feature", "properties": { "name": "PARK ROAD TENNIS FACILITY", "type": "NEIGHBORHOOD PARK", "address": "6215 PARK RD", "city": "CHARLOTTE", "zipcode": "28210" }, "geometry": { "type": "Point", "coordinates": [ -80.849719, 35.146331 ] } }
+,
+{ "type": "Feature", "properties": { "name": "POLICE ATHLETIC NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "812 OAKLAWN AV", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.837156, 35.245619 ] } }
+,
+{ "type": "Feature", "properties": { "name": "PHILLIP O. BERRY CENTER", "type": "RECREATION CENTER", "address": "440 TUCKASEEGEE RD", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.865082, 35.239475 ] } }
+,
+{ "type": "Feature", "properties": { "name": "PRESSLEY ROAD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1500 PRESSLEY RD", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.891969, 35.196784 ] } }
+,
+{ "type": "Feature", "properties": { "name": "PROGRESS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1301 PARKWOOD AV", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.812360, 35.233138 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RAMA ROAD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1035 RAMA RD", "city": "CHARLOTTE", "zipcode": "28211" }, "geometry": { "type": "Point", "coordinates": [ -80.771740, 35.168607 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RAMSEY CREEK COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "18441  NANTZ RD", "city": "CORNELIUS", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.895800, 35.465386 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RANDOLPH ROAD COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "201 BILLINGSLEY RD", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.809337, 35.190630 ] } }
+,
+{ "type": "Feature", "properties": { "name": "REEDY CREEK REGIONAL PARK", "type": "REGIONAL PARK", "address": "2900  ROCKY RIVER RD", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.716908, 35.276650 ] } }
+,
+{ "type": "Feature", "properties": { "name": "REEDY CREEK NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "2900 ROCKY RIVER RD", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.716889, 35.276659 ] } }
+,
+{ "type": "Feature", "properties": { "name": "REVOLUTION GOLF COURSE", "type": "GOLF COURSE", "address": "2661 BARRINGER DR", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.880092, 35.212426 ] } }
+,
+{ "type": "Feature", "properties": { "name": "REVOLUTION COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "2425 BARRINGER DR", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.876334, 35.215539 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RENAISSANCE GOLF COURSE", "type": "GOLF COURSE", "address": "1525 W TYVOLA RD", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.910149, 35.175752 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RIBBONWALK NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "4601 NEVIN RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.818260, 35.291366 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RAMBLEWOOD COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "10200 NATIONS FORD RD", "city": "CHARLOTTE", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.902377, 35.122582 ] } }
+,
+{ "type": "Feature", "properties": { "name": "THEREASEA C. ELDERS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "6325 ROCKWELL CHURCH RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.800982, 35.305209 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RENAISSANCE REGIONAL PARK", "type": "REGIONAL PARK", "address": "1200 W TYVOLA RD", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.909820, 35.175838 ] } }
+,
+{ "type": "Feature", "properties": { "name": "RURAL HILL NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "4431 NECK RD", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.945282, 35.383821 ] } }
+,
+{ "type": "Feature", "properties": { "name": "STEELE CREEK ELEMENTARY PARK", "type": "NEIGHBORHOOD PARK", "address": "4100 GALLANT LN", "city": "CHARLOTTE", "zipcode": "28273" }, "geometry": { "type": "Point", "coordinates": [ -80.957829, 35.153769 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SEDGEFIELD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "621 ELMHURST RD", "city": "CHARLOTTE", "zipcode": "28209" }, "geometry": { "type": "Point", "coordinates": [ -80.858073, 35.198269 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SEVERSVILLE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "540 S BRUNS AVE", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.866528, 35.239079 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SHAMROCK NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3325 AIRLIE ST", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.783904, 35.235333 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SHUFFLETOWN PRAIRIE NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "WINDING RIVER RD", "city": "CHARLOTTE", "zipcode": "28214" }, "geometry": { "type": "Point", "coordinates": [ -80.957564, 35.324706 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SHEFFIELD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1300 TARRINGTON AV", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.766903, 35.206132 ] } }
+,
+{ "type": "Feature", "properties": { "name": "TOM SYKES CENTER", "type": "RECREATION CENTER", "address": "1501 EUCLID AV", "city": "CHARLOTTE", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.852310, 35.212450 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SOLOMANS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3299 VENICE ST", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.870135, 35.260728 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SPRINGFIELD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "200 DEANWOOD PL", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.903437, 35.159767 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SOUTHSIDE COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "600 REMOUNT RD", "city": "CHARLOTTE", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.874871, 35.208072 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ST MARYS CHAPEL", "type": "SPECIAL FACILITY", "address": "1129 E 3RD ST", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.833520, 35.215800 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ST PAULS RAY OF HOPE CENTER", "type": "RECREATION CENTER", "address": "1401 ALLEN ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.818134, 35.230406 ] } }
+,
+{ "type": "Feature", "properties": { "name": "STEPHENS ROAD NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "STEPHENS GROVE LN", "city": "HUNTERSVILLE", "zipcode": "28078" }, "geometry": { "type": "Point", "coordinates": [ -80.937568, 35.401298 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SUGAW CREEK CENTER", "type": "RECREATION CENTER", "address": "943 W SUGAR CREEK RD", "city": "CHARLOTTE", "zipcode": "28213" }, "geometry": { "type": "Point", "coordinates": [ -80.793790, 35.272410 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SUGAW CREEK COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "939 W SUGAR CREEK RD", "city": "CHARLOTTE", "zipcode": "28213" }, "geometry": { "type": "Point", "coordinates": [ -80.793780, 35.272439 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SUNSET HILLS GOLF COURSE", "type": "GOLF COURSE", "address": "800 RADIO RD", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.886701, 35.305016 ] } }
+,
+{ "type": "Feature", "properties": { "name": "SOUTHVIEW CENTER", "type": "RECREATION CENTER", "address": "1720 VILMA ST", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.917200, 35.210559 ] } }
+,
+{ "type": "Feature", "properties": { "name": "THOMPSON NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1129 E 3RD ST", "city": "CHARLOTTE", "zipcode": "28204" }, "geometry": { "type": "Point", "coordinates": [ -80.834282, 35.216250 ] } }
+,
+{ "type": "Feature", "properties": { "name": "THIRD WARD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1001 W 4TH ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.854934, 35.232960 ] } }
+,
+{ "type": "Feature", "properties": { "name": "T. M. WINGET REGIONAL PARK", "type": "REGIONAL PARK", "address": "12025 WINGET RD", "city": "CHARLOTTE", "zipcode": "28278" }, "geometry": { "type": "Point", "coordinates": [ -81.003665, 35.132067 ] } }
+,
+{ "type": "Feature", "properties": { "name": "TOM HUNTER NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "919 TOM HUNTER RD", "city": "CHARLOTTE", "zipcode": "28213" }, "geometry": { "type": "Point", "coordinates": [ -80.781577, 35.278222 ] } }
+,
+{ "type": "Feature", "properties": { "name": "TRADITION GOLF COURSE", "type": "GOLF COURSE", "address": "3800 PROSPERITY CHURCH RD", "city": "CHARLOTTE", "zipcode": "28269" }, "geometry": { "type": "Point", "coordinates": [ -80.774939, 35.349364 ] } }
+,
+{ "type": "Feature", "properties": { "name": "TRYON HILLS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "220 W 30TH ST", "city": "CHARLOTTE", "zipcode": "28206" }, "geometry": { "type": "Point", "coordinates": [ -80.816711, 35.251059 ] } }
+,
+{ "type": "Feature", "properties": { "name": "TUCKASEEGEE CENTER", "type": "RECREATION CENTER", "address": "4820 TUCKASEEGEE RD", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.907229, 35.248209 ] } }
+,
+{ "type": "Feature", "properties": { "name": "TUCKASEEGEE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "4820 TUCKASEEGEE RD", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.907814, 35.248354 ] } }
+,
+{ "type": "Feature", "properties": { "name": "KIRK FARM FIELDS COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "210 E MALLARD CREEK CHURCH RD", "city": "CHARLOTTE", "zipcode": "28262" }, "geometry": { "type": "Point", "coordinates": [ -80.732697, 35.320675 ] } }
+,
+{ "type": "Feature", "properties": { "name": "UNITY NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "6401 KELSEY DR", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.752581, 35.255598 ] } }
+,
+{ "type": "Feature", "properties": { "name": "BEREWICK REGIONAL PARK", "type": "REGIONAL PARK", "address": "DIXIE RIVER RD", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.980127, 35.173340 ] } }
+,
+{ "type": "Feature", "properties": { "name": "VETERANS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2136 CENTRAL AV", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.804171, 35.219677 ] } }
+,
+{ "type": "Feature", "properties": { "name": "VIEWMONT NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "5400 VIEWMONT DR", "city": "CHARLOTTE", "zipcode": "28215" }, "geometry": { "type": "Point", "coordinates": [ -80.750457, 35.260183 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WADDELL STREET NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "1505 WADDELL ST", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.846348, 35.255077 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WEST CHARLOTTE CENTER", "type": "RECREATION CENTER", "address": "2401 KENDALL DR", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.856808, 35.268652 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WEST CHARLOTTE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2401 KENDALL DR", "city": "CHARLOTTE", "zipcode": "28216" }, "geometry": { "type": "Point", "coordinates": [ -80.856622, 35.267531 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ROMARE BEARDEN NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "416 W 3RD ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.848565, 35.228611 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WESTERLY HILLS NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3900 AMERIGO ST", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.905025, 35.230687 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WILMORE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "900 SPRUCE ST", "city": "CHARLOTTE", "zipcode": "28203" }, "geometry": { "type": "Point", "coordinates": [ -80.868050, 35.221081 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WINGATE NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "2731 MAYFAIR AV", "city": "CHARLOTTE", "zipcode": "28208" }, "geometry": { "type": "Point", "coordinates": [ -80.908200, 35.214440 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WILLIAM R. DAVIE REGIONAL PARK", "type": "REGIONAL PARK", "address": "4635  PINEVILLE-MATTHEWS RD", "city": "CHARLOTTE", "zipcode": "28226" }, "geometry": { "type": "Point", "coordinates": [ -80.804217, 35.091087 ] } }
+,
+{ "type": "Feature", "properties": { "name": "YORKMONT NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "6417 VICKERS RD", "city": "CHARLOTTE", "zipcode": "28217" }, "geometry": { "type": "Point", "coordinates": [ -80.902007, 35.164361 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FLAT BRANCH NATURE PRESERVE", "type": "NATURE PRESERVE", "address": "TOM SHORT RD", "city": "CHARLOTTE", "zipcode": "28277" }, "geometry": { "type": "Point", "coordinates": [ -80.794277, 35.044890 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WINTERFIELD NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "3010 WINTERFIELD PL", "city": "CHARLOTTE", "zipcode": "28205" }, "geometry": { "type": "Point", "coordinates": [ -80.765675, 35.208758 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HUNTERSVILLE FAMILY FITNESS CENTER", "type": "RECREATION CENTER", "address": "", "city": "HUNTERSVILLE", "zipcode": "" }, "geometry": { "type": "Point", "coordinates": [ -80.844653, 35.391507 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HUNTERSVILLE ATHLETIC COMMUNITY PARK", "type": "COMMUNITY PARK", "address": "", "city": "HUNTERSVILLE", "zipcode": "" }, "geometry": { "type": "Point", "coordinates": [ -80.845156, 35.391193 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MARSHALL NEIGHBORHOOD PARK", "type": "NEIGHBORHOOD PARK", "address": "800 EAST 3RD ST", "city": "CHARLOTTE", "zipcode": "28202" }, "geometry": { "type": "Point", "coordinates": [ -80.838923, 35.220129 ] } }
+
+]
+}

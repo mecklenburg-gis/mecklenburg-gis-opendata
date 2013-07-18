@@ -1,0 +1,125 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "FIRE STATION 13", "type": "CFD", "address": "4337 Glenwood Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.892086, 35.257679 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 20", "type": "CFD", "address": "9400 Nations Ford Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.892825, 35.129449 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 30", "type": "CFD", "address": "4707 Belle Oaks Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.935756, 35.192276 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 26", "type": "CFD", "address": "9231 S Tryon St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.940267, 35.132061 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 21", "type": "CFD", "address": "1023 Little Rock Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.940181, 35.264972 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 17", "type": "CFD", "address": "5308 Morris Field Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.932513, 35.213396 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 3", "type": "CFD", "address": "6512 Monroe Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.757528, 35.179574 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 9", "type": "CFD", "address": "4529 McKee Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.761053, 35.064617 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 19", "type": "CFD", "address": "1016 Sardis Ln", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.782309, 35.138263 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 14", "type": "CFD", "address": "114 N Sharon Amity Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.797454, 35.175870 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 29", "type": "CFD", "address": "2121 Margaret Wallace Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.737001, 35.164438 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 27", "type": "CFD", "address": "111 Ken Hoffman  Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.750046, 35.303003 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 11", "type": "CFD", "address": "620 W 28th St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.824742, 35.251660 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 7", "type": "CFD", "address": "3210 N Davidson St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.805163, 35.247087 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 8", "type": "CFD", "address": "1201 The Plaza", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.811217, 35.218702 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 6", "type": "CFD", "address": "249 S Laurel Av", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.822281, 35.202602 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 5", "type": "CFD", "address": "224  Wesley Heights Wy", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.861322, 35.237140 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 4", "type": "CFD", "address": "525 N Church St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.838979, 35.231905 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 18", "type": "CFD", "address": "2337 Keller Av", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.856144, 35.265226 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 15", "type": "CFD", "address": "3617 Frontenac Av", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.775236, 35.237456 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 22", "type": "CFD", "address": "1917 W Sugar Creek Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.795876, 35.289124 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 1", "type": "CFD", "address": "221 N Myers St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.834413, 35.222754 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 23", "type": "CFD", "address": "7400 E W T Harris Bv", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.723513, 35.219407 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 28", "type": "CFD", "address": "8031 Old Statesville Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.826060, 35.331889 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 16", "type": "CFD", "address": "6623 Park South Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.847584, 35.140044 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 12", "type": "CFD", "address": "420 Inwood Dr", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.875055, 35.173526 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 2", "type": "CFD", "address": "1817 South Bv", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.858096, 35.210957 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 24", "type": "CFD", "address": "7132 Pineville-Matthews Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.838981, 35.087499 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 31", "type": "CFD", "address": "3820 Ridge Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.764310, 35.374147 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 33", "type": "CFD", "address": "2001 Mt Holly-Huntersville Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.964819, 35.315091 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 34", "type": "CFD", "address": "2824 Rocky River Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.717482, 35.276097 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION35", "type": "CFD", "address": "1120 Pavilion Bv", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.712443, 35.322024 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 32", "type": "CFD", "address": "9225 Bryant Farms Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.825619, 35.044836 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 25", "type": "CFD", "address": "6741 Pleasant Grove Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.911548, 35.308031 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 36", "type": "CFD", "address": "2325 W. Mallard Creek Church Rd.", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.761099, 35.337760 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 10", "type": "CFD", "address": "2810 Wilkinson Bv", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.887580, 35.224670 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 38 (TEMP)", "type": "CFD", "address": "14525 Sledge Rd", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -81.009594, 35.121350 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 37", "type": "CFD", "address": "13828 S Tryon St", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -81.002292, 35.096457 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FIRE STATION 38", "type": "CFD", "address": "12100 Shopton Rd West", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -81.003910, 35.145107 ] } }
+,
+{ "type": "Feature", "properties": { "name": "LONG CREEK V.F.D., INC.", "type": "VFD", "address": "6809 BEATTIES FORD RD", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.867168, 35.325497 ] } }
+,
+{ "type": "Feature", "properties": { "name": "PROVIDENCE VOLUNTEER FIRE DEPARTMENT, INC.", "type": "VFD", "address": "5025 HEMBY RD", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.743150, 35.036078 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CORNELIUS-LEMLEY VOLUNTEER FIRE DEPARTMENT STATION #2", "type": "VFD", "address": "19230 CHARLES TOWN LN", "city": "Cornelius" }, "geometry": { "type": "Point", "coordinates": [ -80.896040, 35.478248 ] } }
+,
+{ "type": "Feature", "properties": { "name": "DAVIDSON FIRE DEPARTMENT", "type": "VFD", "address": "216 S MAIN ST", "city": "Davidson" }, "geometry": { "type": "Point", "coordinates": [ -80.849906, 35.497994 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CORNELIUS-LEMLEY VOLUNTEER FIRE DEPARTMENT STATION #1", "type": "VFD", "address": "19729 S MAIN ST", "city": "Cornelius" }, "geometry": { "type": "Point", "coordinates": [ -80.856411, 35.478152 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HUNTERSVILLE V.F.D., INC. #2", "type": "VFD", "address": "15600 BEATTIES FORD RD", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.915413, 35.423748 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HUNTERSVILLE V.F.D., INC. #1", "type": "VFD", "address": "110 S OLD STATESVILLE RD", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.842945, 35.409448 ] } }
+,
+{ "type": "Feature", "properties": { "name": "COOK'S COMMUNITY VOLUNTEER FIRE DEPARTMENT, INC.", "type": "VFD", "address": "3122 MT HOLLY-HUNTERSVILLE RD", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.950601, 35.321510 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WEST MECKLENBURG VOLUNTEER FIRE DEPARTMENT, INC.", "type": "VFD", "address": "3100 SAM WILSON RD", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.984612, 35.251388 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ROBINSON V.F.D. AND RESCUE, INC.", "type": "VFD", "address": "5304 MECKLENBURG SHRINE CLUB RD", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.657457, 35.243837 ] } }
+,
+{ "type": "Feature", "properties": { "name": "STEELE CREEK V.F.D. AND RESCUE SERVICE, INC. #1", "type": "VFD", "address": "8700 STEELE CREEK RD", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.963576, 35.169427 ] } }
+,
+{ "type": "Feature", "properties": { "name": "IDLEWILD V.F.D., INC.", "type": "VFD", "address": "10241 IDLEWILD RD", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.701445, 35.168192 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MINT HILL V.F.D., INC.", "type": "VFD", "address": "8313 FAIRVIEW RD", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.641968, 35.179480 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MATTHEWS-MORNINGSTAR V.F.D., INC.", "type": "VFD", "address": "236 S TRADE ST", "city": "Matthews" }, "geometry": { "type": "Point", "coordinates": [ -80.725412, 35.113486 ] } }
+,
+{ "type": "Feature", "properties": { "name": "THE PINEVILLE V.F.D. AND RESCUE, INC", "type": "VFD", "address": "107 CHURCH ST", "city": "Pineville" }, "geometry": { "type": "Point", "coordinates": [ -80.889391, 35.086203 ] } }
+,
+{ "type": "Feature", "properties": { "name": "STEELE CREEK V.F.D. AND RESCUE SERVICE, INC. #2", "type": "VFD", "address": "13225 YORK RD", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.993269, 35.099989 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CAROLINA VOLUNTEER FIRE DEPARTMENT, INC.", "type": "VFD", "address": "9937 PROVIDENCE RD", "city": "Charlotte" }, "geometry": { "type": "Point", "coordinates": [ -80.831249, 35.036331 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HEMBY BRIDGE V.F.D., INC.", "type": "VFD", "address": "6628 MILL GROVE RD", "city": "Indian Trail" }, "geometry": { "type": "Point", "coordinates": [ -80.619616, 35.116120 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MIDLAND V.F.D., INC. #1", "type": "VFD", "address": "12805 HWY 601 S", "city": "Midland" }, "geometry": { "type": "Point", "coordinates": [ -80.503926, 35.241830 ] } }
+,
+{ "type": "Feature", "properties": { "name": "MIDLAND V.F.D., INC. #2", "type": "VFD", "address": "369 HWY 24 27 E", "city": "Midland" }, "geometry": { "type": "Point", "coordinates": [ -80.566911, 35.249088 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HUNTERSVILLE V.F.D., INC. #3", "type": "VFD", "address": "13423 EASTFIELD RD", "city": "Huntersville" }, "geometry": { "type": "Point", "coordinates": [ -80.781526, 35.389669 ] } }
+
+]
+}
