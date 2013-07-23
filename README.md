@@ -1,9 +1,9 @@
-Open Data &bull; Mecklenburg County GIS
+Open Geo Data Repository
 ==============================
+[Mecklenburg County GIS](http://emaps.charmeck.org/) | Mecklenburg County, North Carolina
 
-    Open data is a philosophy and practice requiring that certain data be freely available to everyone, without restrictions from copyright, patents or other mechanisms of control. [wikipedia](http://en.wikipedia.org/wiki/Open_Data)
-
-Open data has four key attributes:
+### Introduction
+[Open data](http://en.wikipedia.org/wiki/Open_Data) has four key attributes:
 + The work is accessible to everyone.
 + You have the right to redistribute the work.
 + You have the right to modify and make derivative works.
@@ -16,5 +16,3 @@ All of the data is in [GeoJSON](http://www.geojson.org/) format in [WGS84](http:
 
 ### License
 All of our data is licensed under the [MIT](http://opensource.org/licenses/MIT) open source license.
-
-[Mecklenburg County GIS](http://emaps.charmeck.org/) | Mecklenburg County, North Carolina
