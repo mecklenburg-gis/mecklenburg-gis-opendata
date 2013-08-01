@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Mint Hill", "address": "7151 Matthews-Mint Hill Rd", "city": "Mint Hill", "state": "NC", "link": "http:\/\/www.minthill.com\/" }, "geometry": { "type": "Point", "coordinates": [ -80.656332, 35.173947 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Huntersville", "address": "13001 Old Statesville Rd", "city": "Hunterville", "state": "NC", "link": "http:\/\/www.huntersville.org\/" }, "geometry": { "type": "Point", "coordinates": [ -80.838458, 35.398290 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Cornelius", "address": "20001 Main St", "city": "Cornelius", "state": "NC", "link": "http:\/\/www.cornelius.org" }, "geometry": { "type": "Point", "coordinates": [ -80.859149, 35.484744 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Training Center", "address": "1750 Shopton Rd", "city": "Charlotte", "state": "NC", "link": "" }, "geometry": { "type": "Point", "coordinates": [ -80.920801, 35.163607 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Pineville", "address": "118 College St", "city": "Pineville", "state": "NC", "link": "http:\/\/www.pinevillenc.net\/" }, "geometry": { "type": "Point", "coordinates": [ -80.888614, 35.086384 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Matthews", "address": "212 N Trade St", "city": "Matthews", "state": "NC", "link": "http:\/\/www.matthewsnc.com\/" }, "geometry": { "type": "Point", "coordinates": [ -80.721160, 35.116969 ] } }
+,
+{ "type": "Feature", "properties": { "name": "Davidson", "address": "216 S Main St", "city": "Davidson", "state": "NC", "link": "http:\/\/www.ci.davidson.nc.us\/" }, "geometry": { "type": "Point", "coordinates": [ -80.851399, 35.496733 ] } }
+
+]
+}

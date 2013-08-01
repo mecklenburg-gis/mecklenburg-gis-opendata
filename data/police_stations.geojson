@@ -1,0 +1,35 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "SOUTH DIVISION", "address": "8050  CORPORATE CENTER DR" }, "geometry": { "type": "Point", "coordinates": [ -80.856569, 35.085929 ] } }
+,
+{ "type": "Feature", "properties": { "name": "EASTWAY DIVISION", "address": "3024  EASTWAY DR" }, "geometry": { "type": "Point", "coordinates": [ -80.781850, 35.214763 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FAMILY SERVICES DIVISION", "address": "601 E 5TH ST" }, "geometry": { "type": "Point", "coordinates": [ -80.836453, 35.223683 ] } }
+,
+{ "type": "Feature", "properties": { "name": "STEELE CREEK DIVISION", "address": "1750  SHOPTON RD" }, "geometry": { "type": "Point", "coordinates": [ -80.918539, 35.165414 ] } }
+,
+{ "type": "Feature", "properties": { "name": "WESTOVER DIVISION", "address": "1540  WEST BV" }, "geometry": { "type": "Point", "coordinates": [ -80.883192, 35.216586 ] } }
+,
+{ "type": "Feature", "properties": { "name": "FREEDOM DIVISION", "address": "4150  WILKINSON BV" }, "geometry": { "type": "Point", "coordinates": [ -80.908296, 35.226380 ] } }
+,
+{ "type": "Feature", "properties": { "name": "PROVIDENCE DIVISION", "address": "3500  LATROBE DR" }, "geometry": { "type": "Point", "coordinates": [ -80.799947, 35.197204 ] } }
+,
+{ "type": "Feature", "properties": { "name": "INDEPENDENCE DIVISION", "address": "9315  MONROE RD" }, "geometry": { "type": "Point", "coordinates": [ -80.741252, 35.144442 ] } }
+,
+{ "type": "Feature", "properties": { "name": "HICKORY GROVE DIVISION", "address": "5727 N SHARON AMITY RD" }, "geometry": { "type": "Point", "coordinates": [ -80.739070, 35.235365 ] } }
+,
+{ "type": "Feature", "properties": { "name": "CENTRAL DIVISION", "address": "119 E SEVENTH ST" }, "geometry": { "type": "Point", "coordinates": [ -80.838855, 35.229055 ] } }
+,
+{ "type": "Feature", "properties": { "name": "METRO DIVISION", "address": "601 E TRADE ST" }, "geometry": { "type": "Point", "coordinates": [ -80.837280, 35.222753 ] } }
+,
+{ "type": "Feature", "properties": { "name": "NORTH TRYON DIVISION", "address": "4045 N TRYON ST" }, "geometry": { "type": "Point", "coordinates": [ -80.797512, 35.257575 ] } }
+,
+{ "type": "Feature", "properties": { "name": "ACADEMY", "address": "1770  SHOPTON RD" }, "geometry": { "type": "Point", "coordinates": [ -80.919696, 35.165220 ] } }
+,
+{ "type": "Feature", "properties": { "name": "UNIVERSITY CITY DIVISION", "address": "8401  UNIVERSITY EXEC PARK DR" }, "geometry": { "type": "Point", "coordinates": [ -80.754349, 35.303456 ] } }
+,
+{ "type": "Feature", "properties": { "name": "NORTH DIVISION", "address": "10430  HARRIS OAKS BV" }, "geometry": { "type": "Point", "coordinates": [ -80.843270, 35.343615 ] } }
+
+]
+}
