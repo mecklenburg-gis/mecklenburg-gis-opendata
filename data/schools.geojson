@@ -92,3 +92,4 @@
 { "type": "Feature", "properties": { "name": "Endhaven Elementary School", "type": "Elementary", "address": "6815 Endhaven Lane", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.835480, 35.066821 ] } }
 ,
 { "type": "Feature", "properties": { "name": "Hawthorne High School", "type": "Special", "address": "1411 Hawthorne Lane", "city_state": "Charlotte, NC" }, "geometry": { "type": "Point", "coordinates": [ -80.814459, 35.228896 ] } }
+]}
